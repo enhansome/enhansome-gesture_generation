@@ -99,7 +99,7 @@
             "last_commit": "2025-01-16T06:55:20Z",
             "owner": "PantoMatrix",
             "repo": "PantoMatrix",
-            "stars": 1287
+            "stars": 1288
           }
         },
         {
@@ -977,7 +977,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34364
+                "stars": 34366
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7828
+                "stars": 7829
               }
             }
           ]
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T20:03:06.042Z",
+    "last_updated": "2026-08-15T19:44:22.400Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
     "enhanced_repository": "enhansome/enhansome-gesture_generation",
