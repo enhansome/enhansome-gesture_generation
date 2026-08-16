@@ -99,7 +99,7 @@
             "last_commit": "2025-01-16T06:55:20Z",
             "owner": "PantoMatrix",
             "repo": "PantoMatrix",
-            "stars": 1288
+            "stars": 1290
           }
         },
         {
@@ -127,7 +127,7 @@
             "last_commit": "2025-02-07T13:29:26Z",
             "owner": "LuMen-ze",
             "repo": "Semantic-Gesticulator-Official",
-            "stars": 135
+            "stars": 136
           }
         },
         {
@@ -991,7 +991,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8592
+                "stars": 8593
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7829
+                "stars": 7831
               }
             }
           ]
@@ -1103,7 +1103,7 @@
             "last_commit": "2022-12-09T04:38:05Z",
             "owner": "youngwoo-yoon",
             "repo": "Co-Speech_Gesture_Generation",
-            "stars": 81
+            "stars": 82
           }
         },
         {
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T19:44:22.400Z",
+    "last_updated": "2026-08-16T19:43:39.152Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
     "enhanced_repository": "enhansome/enhansome-gesture_generation",
