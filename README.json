@@ -977,7 +977,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34366
+                "stars": 34368
               }
             },
             {
@@ -991,7 +991,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8593
+                "stars": 8594
               }
             },
             {
@@ -1005,7 +1005,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7831
+                "stars": 7834
               }
             }
           ]
@@ -1342,7 +1342,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T19:43:39.152Z",
+    "last_updated": "2026-08-17T19:50:54.974Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
     "enhanced_repository": "enhansome/enhansome-gesture_generation",
