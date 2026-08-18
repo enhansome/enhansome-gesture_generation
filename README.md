@@ -544,12 +544,12 @@ This section is -- **not accurate** --> continue edditing
 
 * **Periodic autoencoders (DeepPhase)**
 
-  * **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[Aubrey-ao/HumanBehaviorAnimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 222 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [\[youtube\]](https://www.youtube.com/watch?v=DO_W8plFWco)
+  * **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[Aubrey-ao/HumanBehaviorAnimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 223 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [\[youtube\]](https://www.youtube.com/watch?v=DO_W8plFWco)
   * 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 712 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 713 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,368 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,371 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,594 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,834 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,837 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -843,7 +843,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 * **TEDTalk** (Extract skeleton from video Dataset)
 
   * Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [\[paper\]](https://arxiv.org/abs/2009.02119v1) ; [\[ai4r/Gesture-Generation-from-Trimodal-Context\]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2021-12-14
-  * Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[aubrey-ao/humanbehavioranimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 222 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+  * Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[aubrey-ao/humanbehavioranimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 223 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
   * Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2203.13161.pdf) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16 ; [\[youtube\]](https://www.youtube.com/watch?v=CG632W-nIWk) ; [\[homepage\]](https://alvinliu0.github.io/projects/HA2G)
   * Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [\[paper\]](https://arxiv.org/abs/2108.00262v2) [\[UttaranB127/speech2affective\_gestures\]](https://github.com/UttaranB127/speech2affective_gestures) ⭐ 55 | 🐛 11 | 🌐 Python | 📅 2023-02-28 ; [\[homepage\]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [\[youtube\]](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
   * AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-04-19
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
