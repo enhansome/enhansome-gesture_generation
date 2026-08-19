@@ -930,7 +930,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34372
+                "stars": 34373
               }
             },
             {
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:32:10.900Z",
+    "last_updated": "2026-08-19T19:48:40.807Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_id": 617007100,
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
