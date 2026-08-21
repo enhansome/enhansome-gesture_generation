@@ -17,7 +17,7 @@
                 "last_commit": "2025-01-16T06:55:20Z",
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1290
+                "stars": 1292
               }
             },
             {
@@ -47,7 +47,7 @@
                 "last_commit": "2025-02-07T13:29:26Z",
                 "owner": "LuMen-ze",
                 "repo": "Semantic-Gesticulator-Official",
-                "stars": 136
+                "stars": 137
               }
             },
             {
@@ -204,7 +204,7 @@
                 "last_commit": "2024-04-19T08:22:07Z",
                 "owner": "hvoss-tech",
                 "repo": "AQGT",
-                "stars": 21
+                "stars": 20
               }
             },
             {
@@ -405,7 +405,7 @@
                 "last_commit": "2023-08-08T09:15:00Z",
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 488
+                "stars": 487
               }
             },
             {
@@ -420,7 +420,7 @@
                 "last_commit": "2023-08-08T09:15:00Z",
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 488
+                "stars": 487
               }
             },
             {
@@ -450,7 +450,7 @@
                 "last_commit": "2023-02-16T02:05:53Z",
                 "owner": "Svito-zar",
                 "repo": "gesticulator",
-                "stars": 129
+                "stars": 128
               }
             },
             {
@@ -465,7 +465,7 @@
                 "last_commit": "2023-02-16T02:05:53Z",
                 "owner": "Svito-zar",
                 "repo": "gesticulator",
-                "stars": 129
+                "stars": 128
               }
             },
             {
@@ -597,7 +597,7 @@
                         "last_commit": "2023-02-16T02:05:53Z",
                         "owner": "Svito-zar",
                         "repo": "gesticulator",
-                        "stars": 129
+                        "stars": 128
                       }
                     }
                   ]
@@ -713,7 +713,7 @@
                             "last_commit": "2023-08-08T09:15:00Z",
                             "owner": "simonalexanderson",
                             "repo": "StyleGestures",
-                            "stars": 488
+                            "stars": 487
                           }
                         }
                       ]
@@ -930,7 +930,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34375
+                "stars": 34374
               }
             },
             {
@@ -945,7 +945,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8594
+                "stars": 8593
               }
             },
             {
@@ -960,7 +960,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7839
+                "stars": 7840
               }
             }
           ]
@@ -1220,7 +1220,7 @@
                     "last_commit": "2024-04-19T08:22:07Z",
                     "owner": "hvoss-tech",
                     "repo": "AQGT",
-                    "stars": 21
+                    "stars": 20
                   }
                 }
               ]
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T19:55:06.696Z",
+    "last_updated": "2026-08-21T19:47:38.096Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_id": 617007100,
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
