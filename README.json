@@ -960,7 +960,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7840
+                "stars": 7842
               }
             }
           ]
@@ -1287,7 +1287,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T19:47:38.096Z",
+    "last_updated": "2026-08-22T19:45:26.907Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_id": 617007100,
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
