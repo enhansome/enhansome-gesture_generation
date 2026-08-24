@@ -6,6 +6,226 @@
         {
           "children": [
             {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "UEA Digital Humans",
+                      "description": "【ICMI 2023】The UEA Digital Humans entry to the GENEA Challenge 2023 [paper] ; [JonathanPWindle/UEA-DH-GENEA23] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 676153805,
+                        "language": "Python",
+                        "last_commit": "2024-10-10T10:01:02Z",
+                        "owner": "JonathanPWindle",
+                        "repo": "UEA-DH-GENEA23",
+                        "stars": 2
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "GENEA Challenge 2023 [Homepage]"
+                },
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "【ICMI 2023】 Towards the generation of synchronized and believable non-verbal facial behaviors of a talking virtual agent [paper]",
+                      "description": "; [aldelb/non_verbal_facial_animation] 🏆",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 679258348,
+                        "language": "Python",
+                        "last_commit": "2023-08-16T13:33:35Z",
+                        "owner": "aldelb",
+                        "repo": "non_verbal_facial_animation",
+                        "stars": 4
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "GENEA Workshop 2023 - ICMI 2023 Accepted papers [Homepage]"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GENEA 2023"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "FineMotion",
+                      "description": "【ICMI 2022】ReCell: replicating recurrent cell for auto-regressive pose generation [paper] [FineMotion/GENEA_2022] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 527935462,
+                        "language": "Python",
+                        "last_commit": "2022-09-01T18:09:32Z",
+                        "owner": "FineMotion",
+                        "repo": "GENEA_2022",
+                        "stars": 2
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "IVI Lab",
+                      "description": "【ICMI 2022】The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism [paper] [Tacotron2-SpeechGesture] [youtube] 🏆",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 524251511,
+                        "language": "Python",
+                        "last_commit": "2023-05-02T21:01:30Z",
+                        "owner": "cjerry1243",
+                        "repo": "Tacotron2-SpeechGesture",
+                        "stars": 13
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "ReprGesture",
+                      "description": "【ICMI 2022】The ReprGesture entry to the GENEA Challenge 2022 [paper] [YoungSeng/ReprGesture] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 471311175,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2022-11-08T18:20:29Z",
+                        "owner": "YoungSeng",
+                        "repo": "ReprGesture",
+                        "stars": 16
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "UEA Digital Humans",
+                      "description": "【ICMI 2022】UEA Digital Humans entry to the GENEA Challenge 2022 [paper] [UEA/GENEA22] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 525459827,
+                        "language": null,
+                        "last_commit": "2022-08-16T16:29:10Z",
+                        "owner": "UEA-digital-human-group",
+                        "repo": "GENEA22",
+                        "stars": 0
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "GENEA Challenge 2022 - Accepted papers [Homepage]"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GENEA 2022"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "【ICMI 2021】 Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN [paper]",
+                      "description": "[wubowen416/gesture-generation-using-WGAN] [youtube] 🏆",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 389872493,
+                        "language": "Jupyter Notebook",
+                        "last_commit": "2023-07-24T04:39:28Z",
+                        "owner": "wubowen416",
+                        "repo": "gesture-generation-using-WGAN",
+                        "stars": 14
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "【ICMI 2021】 Crossmodal clustered contrastive learning: Grounding of spoken language to gesture [paper]",
+                      "description": "[dondongwon/CC_NCE_GENEA] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 401924669,
+                        "language": "Python",
+                        "last_commit": "2021-11-11T16:06:27Z",
+                        "owner": "dondongwon",
+                        "repo": "CC_NCE_GENEA",
+                        "stars": 8
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "GENEA Challenge 2021 - ICMI 2021 Accepted papers [Homepage]"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GENEA 2021"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "【IVA 2020】 The StyleGestures entry to the GENEA Challenge 2020 [paper]",
+                      "description": "; [[simonalexanderson/StyleGestures]] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 245422606,
+                        "language": "Python",
+                        "last_commit": "2023-08-08T09:15:00Z",
+                        "owner": "simonalexanderson",
+                        "repo": "StyleGestures",
+                        "stars": 487
+                      }
+                    },
+                    {
+                      "node_type": "item",
+                      "title": "【IVA 2020】 The FineMotion entry to the GENEA Challenge 2020 [paper]",
+                      "description": "; [FineMotion/GENEA_2020] [youtube]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 276849927,
+                        "language": "Python",
+                        "last_commit": "2024-07-25T11:02:08Z",
+                        "owner": "FineMotion",
+                        "repo": "GENEA_2020",
+                        "stars": 5
+                      }
+                    }
+                  ],
+                  "description": null,
+                  "node_type": "group",
+                  "title": "GENEA Challenge 2020 - Accepted papers [Homepage]"
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "GENEA 2020"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2.2 GENEA"
+        },
+        {
+          "children": [
+            {
               "node_type": "item",
               "title": "【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [paper]",
               "description": "; [PantoMatrix/PantoMatrix]",
@@ -537,6 +757,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": "Analyzing Input and Output Representations for Speech-Driven Gesture Generation [paper]",
+              "description": "; [GestureGeneration/Speech_driven_gesture_generation_with_autoencoder] ; [youtube] ; [youtube] ; [homepage]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164457247,
+                "language": "Python",
+                "last_commit": "2023-07-06T21:45:05Z",
+                "owner": "GestureGeneration",
+                "repo": "Speech_driven_gesture_generation_with_autoencoder",
+                "stars": 110
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "2019"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture [paper]",
               "description": "; [youtube] ; [youtube] ; [Svito-zar/NN-for-Missing-Marker-Reconstruction]",
               "children": [],
@@ -569,6 +811,28 @@
           "description": null,
           "node_type": "group",
           "title": "2018"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "【SIGGRAPH 2022】 GANimator for generate data GANimator: Neural Motion Synthesis from a Single Sequence [paper]",
+              "description": "; PeizhuoLi/ganimator ; [youtube]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 488601986,
+                "language": "Python",
+                "last_commit": "2024-06-28T09:29:35Z",
+                "owner": "PeizhuoLi",
+                "repo": "ganimator",
+                "stars": 411
+              }
+            }
+          ],
+          "description": "Others",
+          "node_type": "group",
+          "title": "Before 2017"
         }
       ],
       "title": "2. Papers"
@@ -870,7 +1134,29 @@
                         "last_commit": "2024-08-18T00:21:07Z",
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 713
+                        "stars": 715
+                      }
+                    }
+                  ]
+                },
+                {
+                  "node_type": "group",
+                  "title": "Others (Uncategory)",
+                  "description": null,
+                  "children": [
+                    {
+                      "node_type": "item",
+                      "title": "【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [paper]",
+                      "description": "; [akira-l/seeg]",
+                      "children": [],
+                      "repo_info": {
+                        "archived": false,
+                        "id": 466992154,
+                        "language": "Python",
+                        "last_commit": "2022-12-03T11:14:13Z",
+                        "owner": "akira-l",
+                        "repo": "SEEG",
+                        "stars": 33
                       }
                     }
                   ]
@@ -887,6 +1173,102 @@
         }
       ],
       "title": "3. Approachs"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Speech-Gesture",
+          "description": "🚶, 🔊 👤 amirbar/speech2gesture [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179192868,
+            "language": "Python",
+            "last_commit": "2024-03-06T19:07:58Z",
+            "owner": "amirbar",
+            "repo": "speech2gesture",
+            "stars": 394
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TED Dataset [homepage]",
+          "description": "🚶, 🔊 👤 youtube-gesture-dataset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 179186315,
+            "language": "Python",
+            "last_commit": "2023-11-09T22:23:05Z",
+            "owner": "youngwoo-yoon",
+            "repo": "youtube-gesture-dataset",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Talking With Hands ([github]",
+          "description": ") 🚶, 🔊 👥 facebookresearch/TalkingWithHands32M [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 212721632,
+            "language": null,
+            "last_commit": "2021-08-20T13:17:09Z",
+            "owner": "facebookresearch",
+            "repo": "TalkingWithHands32M",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PATS ([homepage]",
+          "description": ", [github]) 🚶, 🔊, 📃 👤 chahuja.com/pats [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 279357529,
+            "language": "Python",
+            "last_commit": "2023-07-15T10:54:12Z",
+            "owner": "chahuja",
+            "repo": "pats",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ZEGGS Dataset [youtube]",
+          "description": "🚶, 🔊 👤 ubisoft-laforge-ZeroEGGS [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 538686235,
+            "language": "Python",
+            "last_commit": "2023-08-16T12:50:43Z",
+            "owner": "ubisoft",
+            "repo": "ubisoft-laforge-ZeroEGGS",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BEAT Dataset ([homepage]",
+          "description": "[homepage], [github]) 🚶, 🔊, 📃, ℹ️, 🤯 👥, 👤 github.io/BEAT [paper]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 736239610,
+            "language": null,
+            "last_commit": "2025-06-26T11:53:51Z",
+            "owner": "PantoMatrix",
+            "repo": "BEAT",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "4. Datasets"
     },
     {
       "description": null,
@@ -930,7 +1312,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34385
+                "stars": 34390
               }
             },
             {
@@ -960,7 +1342,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7843
+                "stars": 7846
               }
             }
           ]
@@ -1287,7 +1669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:44:42.647Z",
+    "last_updated": "2026-08-24T14:30:47.907Z",
     "original_repository": "openhuman-ai/awesome-gesture_generation",
     "original_repository_id": 617007100,
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",

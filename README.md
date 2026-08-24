@@ -400,10 +400,10 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2019">2019</a>**
 
+* Analyzing Input and Output Representations for Speech-Driven Gesture Generation [\[paper\]](https://arxiv.org/abs/1903.03369) ; [\[GestureGeneration/Speech\_driven\_gesture\_generation\_with\_autoencoder\]](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2023-07-06 ; [\[youtube\]](https://www.youtube.com/watch?v=Iv7UBe92zrw) ; [\[youtube\]](https://www.youtube.com/watch?v=tQLVyTVtsSU) ; [\[homepage\]](https://svito-zar.github.io/audio2gestures/)
 * 【SIGGRAPH MIG 2019】 Multi-objective adversarial gesture generation [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3359566.3360053)
 * 【ICMI 2019】 DRAM To React or not to React: End-to-End Visual Pose Forecasting for Personalized Avatar during Dyadic Conversations [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3340555.3353725)
 * 【CVPR 2019】 **Speech2Gesture** Learning Individual Styles of Conversational Gesture [\[paper\]](https://openaccess.thecvf.com/content_CVPR_2019/html/Ginosar_Learning_Individual_Styles_of_Conversational_Gesture_CVPR_2019_paper.html)
-* Analyzing Input and Output Representations for Speech-Driven Gesture Generation [\[paper\]](https://arxiv.org/abs/1903.03369) ; [\[GestureGeneration/Speech\_driven\_gesture\_generation\_with\_autoencoder\]](https://github.com/GestureGeneration/Speech_driven_gesture_generation_with_autoencoder) ⭐ 110 | 🐛 4 | 🌐 Python | 📅 2023-07-06 ; [\[youtube\]](https://www.youtube.com/watch?v=Iv7UBe92zrw) ; [\[youtube\]](https://www.youtube.com/watch?v=tQLVyTVtsSU) ; [\[homepage\]](https://svito-zar.github.io/audio2gestures/)
 * On the Importance of Representations for Speech-Driven Gesture Generation [\[paper\]](https://www.ifaamas.org/Proceedings/aamas2019/pdfs/p2072.pdf)
 
 <!-- ************************* 2019 ************************* -->
@@ -549,15 +549,15 @@ This section is -- **not accurate** --> continue edditing
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 713 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 715 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
 * **Others (Uncategory)**
 
-  * 【SIGGRAPH 2022】 A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3528233.3530750) ; [\[homepage\]](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/)
-
   * 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) ; [\[akira-l/seeg\]](https://github.com/akira-l/seeg) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2022-12-03
+
+  * 【SIGGRAPH 2022】 A Motion Matching-based Framework for Controllable Gesture Synthesis from Speech [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3528233.3530750) ; [\[homepage\]](https://vcai.mpi-inf.mpg.de/projects/SpeechGestureMatching/)
 
   * 【CVPR 2022】 **DiffGAN** - Low-Resource Adaptation for Personalized Co-Speech Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Ahuja_Low-Resource_Adaptation_for_Personalized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html)
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,385 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,390 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,593 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,843 | 🐛 333 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,846 | 🐛 333 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
