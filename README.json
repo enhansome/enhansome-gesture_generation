@@ -1134,7 +1134,7 @@
                         "last_commit": "2024-08-18T00:21:07Z",
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 716
+                        "stars": 717
                       }
                     }
                   ]
@@ -1312,7 +1312,7 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417
+                "stars": 34418
               }
             },
             {
@@ -1327,7 +1327,7 @@
                 "last_commit": "2024-05-13T14:33:34Z",
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8597
+                "stars": 8598
               }
             },
             {
@@ -1342,7 +1342,7 @@
                 "last_commit": "2025-08-04T07:30:50Z",
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7856
+                "stars": 7859
               }
             }
           ]
@@ -1669,7 +1669,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:39:47.446Z",
+    "last_updated": "2026-08-28T03:38:41.613Z",
     "original_repository_info": {
       "archived": false,
       "id": 617007100,
