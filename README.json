@@ -1619,7 +1619,7 @@
                         "open_issues": 7,
                         "owner": "Aubrey-ao",
                         "repo": "HumanBehaviorAnimation",
-                        "stars": 223,
+                        "stars": 224,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2000,7 +2000,7 @@
                 "open_issues": 333,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7859,
+                "stars": 7860,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2319,7 +2319,7 @@
                     "open_issues": 7,
                     "owner": "Aubrey-ao",
                     "repo": "HumanBehaviorAnimation",
-                    "stars": 223,
+                    "stars": 224,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:48:00.696Z",
+    "last_updated": "2026-08-29T21:52:12.856Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
@@ -2492,7 +2492,7 @@
       "open_issues": 2,
       "owner": "openhuman-ai",
       "repo": "awesome-gesture_generation",
-      "stars": 249,
+      "stars": 250,
       "topics": [
         "awesome",
         "awesome-list",
