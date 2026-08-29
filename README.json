@@ -16,12 +16,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This repository contains implementations for The UEA Digital Humans Entry to the GENEA Challenge 2023. This is a self and cross-attention adaptation of the Transformer-XL model.",
+                        "homepage": null,
                         "id": 676153805,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-10-10T10:01:02Z",
+                        "open_issues": 0,
                         "owner": "JonathanPWindle",
                         "repo": "UEA-DH-GENEA23",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -39,12 +44,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 679258348,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-08-16T13:33:35Z",
+                        "open_issues": 0,
                         "owner": "aldelb",
                         "repo": "non_verbal_facial_animation",
-                        "stars": 4
+                        "stars": 4,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -69,12 +79,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This repo contains FineMotions's solution to the GENEA 2022 Challange",
+                        "homepage": null,
                         "id": 527935462,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2022-09-01T18:09:32Z",
+                        "open_issues": 0,
                         "owner": "FineMotion",
                         "repo": "GENEA_2022",
-                        "stars": 2
+                        "stars": 2,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -85,12 +100,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is the official repository for our publication \"The IVI Lab entry to the GENEA Challenge 2022 – A Tacotron2 Based Method for Co-Speech Gesture Generation With Locality-Constraint Attention Mechanism.\"",
+                        "homepage": null,
                         "id": 524251511,
                         "language": "Python",
+                        "license": "Apache-2.0",
                         "last_commit": "2023-05-02T21:01:30Z",
+                        "open_issues": 0,
                         "owner": "cjerry1243",
                         "repo": "Tacotron2-SpeechGesture",
-                        "stars": 13
+                        "stars": 13,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -101,12 +121,19 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "The ReprGesture entry to the GENEA Challenge 2022 (IMCI 2022)",
+                        "homepage": null,
                         "id": 471311175,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2022-11-08T18:20:29Z",
+                        "open_issues": 1,
                         "owner": "YoungSeng",
                         "repo": "ReprGesture",
-                        "stars": 16
+                        "stars": 16,
+                        "topics": [
+                          "deep-learning"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -117,12 +144,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 525459827,
                         "language": null,
+                        "license": null,
                         "last_commit": "2022-08-16T16:29:10Z",
+                        "open_issues": 0,
                         "owner": "UEA-digital-human-group",
                         "repo": "GENEA22",
-                        "stars": 0
+                        "stars": 0,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -147,12 +179,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 389872493,
                         "language": "Jupyter Notebook",
+                        "license": null,
                         "last_commit": "2023-07-24T04:39:28Z",
+                        "open_issues": 0,
                         "owner": "wubowen416",
                         "repo": "gesture-generation-using-WGAN",
-                        "stars": 14
+                        "stars": 14,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -163,12 +200,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official repository for the paper Crossmodal clustered contrastive learning: Grounding of spoken language to gesture",
+                        "homepage": null,
                         "id": 401924669,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2021-11-11T16:06:27Z",
+                        "open_issues": 1,
                         "owner": "dondongwon",
                         "repo": "CC_NCE_GENEA",
-                        "stars": 8
+                        "stars": 8,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -193,12 +235,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 245422606,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2023-08-08T09:15:00Z",
+                        "open_issues": 15,
                         "owner": "simonalexanderson",
                         "repo": "StyleGestures",
-                        "stars": 487
+                        "stars": 487,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -209,12 +256,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 276849927,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2024-07-25T11:02:08Z",
+                        "open_issues": 1,
                         "owner": "FineMotion",
                         "repo": "GENEA_2020",
-                        "stars": 5
+                        "stars": 5,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -242,12 +294,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "PantoMatrix: Generating Face and Body Animation from Speech",
+                "homepage": null,
                 "id": 512623303,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-01-16T06:55:20Z",
+                "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1293
+                "stars": 1293,
+                "topics": [
+                  "co-speech-facial",
+                  "co-speech-gesture",
+                  "talking-face-generation"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -258,12 +319,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2024] AMUSE: Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion ",
+                "homepage": "https://amuse.is.tue.mpg.de/",
                 "id": 728711675,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-10T07:50:11Z",
+                "open_issues": 3,
                 "owner": "kiranchhatre",
                 "repo": "amuse",
-                "stars": 143
+                "stars": 143,
+                "topics": [
+                  "computer-graphics",
+                  "computer-vision",
+                  "cvpr2024",
+                  "gestures",
+                  "latent-diffusion",
+                  "smplx"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -274,12 +347,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 800910635,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2025-02-07T13:29:26Z",
+                "open_issues": 5,
                 "owner": "LuMen-ze",
                 "repo": "Semantic-Gesticulator-Official",
-                "stars": 137
+                "stars": 137,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -290,12 +368,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[NeurlPS-2024] The official code of MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models",
+                "homepage": null,
                 "id": 870756886,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-01-09T16:58:25Z",
+                "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "MambaTalk",
-                "stars": 87
+                "stars": 87,
+                "topics": [
+                  "deep-learning",
+                  "gesture-generation",
+                  "machine-learning",
+                  "mamba-state-space-models",
+                  "selective-state-space-models",
+                  "talking-avatar"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -306,12 +396,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of the Paper: Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation (ACMMM 2024)",
+                "homepage": null,
                 "id": 866507534,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-03-29T13:27:47Z",
+                "open_issues": 7,
                 "owner": "RobinWitch",
                 "repo": "SynTalker",
-                "stars": 80
+                "stars": 80,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -322,12 +417,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 855990677,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2024-09-11T22:15:31Z",
+                "open_issues": 5,
                 "owner": "Ditzley",
                 "repo": "DiffTED",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -338,12 +438,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 838500535,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-11-22T20:47:37Z",
+                "open_issues": 0,
                 "owner": "AI-Unicamp",
                 "repo": "gesture-area-coverage",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -361,12 +466,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR'2023] Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation",
+                "homepage": null,
                 "id": 612845360,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2026-03-18T08:59:16Z",
+                "open_issues": 0,
                 "owner": "Advocate99",
                 "repo": "DiffGesture",
-                "stars": 265
+                "stars": 265,
+                "topics": [
+                  "aigc",
+                  "animation",
+                  "audio-driven",
+                  "cvpr2023",
+                  "diffusion-models",
+                  "gesture-generation"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -377,12 +494,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models (IJCAI 2023) | The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 (ICMI 2023, Reproducibility Award)",
+                "homepage": null,
                 "id": 638529251,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-09T07:24:30Z",
+                "open_issues": 6,
                 "owner": "YoungSeng",
                 "repo": "DiffuseStyleGesture",
-                "stars": 214
+                "stars": 214,
+                "topics": [
+                  "diffusion-models",
+                  "gesture-generation",
+                  "multimodal"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -393,12 +519,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation (CVPR 2023 Highlight)",
+                "homepage": null,
                 "id": 642500010,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-10-18T14:20:13Z",
+                "open_issues": 4,
                 "owner": "YoungSeng",
                 "repo": "QPGesture",
-                "stars": 106
+                "stars": 106,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -409,12 +540,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "UnifiedGesture: A Unified Gesture Synthesis Model for Multiple Skeletons (ACM MM 2023 Oral)",
+                "homepage": null,
                 "id": 691565796,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2024-01-15T07:09:25Z",
+                "open_issues": 4,
                 "owner": "YoungSeng",
                 "repo": "UnifiedGesture",
-                "stars": 57
+                "stars": 57,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -425,12 +561,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2023] Dataset and Code Pytorch Implementation of \"Diverse 3D Hand Gesture Prediction from Body Dynamics by  Bilateral Hand Disentanglement\"",
+                "homepage": null,
                 "id": 616343082,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-10-03T05:37:27Z",
+                "open_issues": 1,
                 "owner": "XingqunQi-lab",
                 "repo": "Diverse-3D-Hand-Gesture-Prediction",
-                "stars": 23
+                "stars": 23,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -441,12 +582,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Implementation of AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis with the extension (AQ-GT-A) from the paper Augmented Co-Speech Gesture Generation: Including Form and Meaning Features to Guide Learning-Based Gesture Synthesis. ",
+                "homepage": null,
                 "id": 692000341,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-04-19T08:22:07Z",
+                "open_issues": 1,
                 "owner": "hvoss-tech",
                 "repo": "AQGT",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -457,12 +603,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 564804395,
                 "language": null,
+                "license": null,
                 "last_commit": "2022-11-18T11:40:19Z",
+                "open_issues": 2,
                 "owner": "RLracer",
                 "repo": "RACER",
-                "stars": 6
+                "stars": 6,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -473,12 +624,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 662714862,
                 "language": null,
+                "license": null,
                 "last_commit": "2023-07-05T18:23:05Z",
+                "open_issues": 0,
                 "owner": "SSYSteve",
                 "repo": "MRecGen",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -496,12 +652,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "ZeroEGGS: Zero-Shot Example-Based Gesture Generation from Speech",
+                "homepage": null,
                 "id": 538686235,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-16T12:50:43Z",
+                "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 427
+                "stars": 427,
+                "topics": [
+                  "character-animation"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -512,12 +675,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022] Code for \"Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation\"",
+                "homepage": "https://alvinliu0.github.io/projects/HA2G",
                 "id": 471211488,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-03-16T09:02:44Z",
+                "open_issues": 14,
                 "owner": "alvinliu0",
                 "repo": "HA2G",
-                "stars": 144
+                "stars": 144,
+                "topics": [
+                  "audio-visual-learning",
+                  "co-speech-gesture",
+                  "cvpr2022"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -528,12 +700,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for SEEG: Semantic Energized Co-speech Gesture Generation",
+                "homepage": null,
                 "id": 466992154,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-03T11:14:13Z",
+                "open_issues": 0,
                 "owner": "akira-l",
                 "repo": "SEEG",
-                "stars": 33
+                "stars": 33,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -544,12 +721,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is an official PyTorch implementation of \"Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation\" (IROS 2022).",
+                "homepage": null,
                 "id": 522662083,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-02-09T22:11:09Z",
+                "open_issues": 2,
                 "owner": "pjyazdian",
                 "repo": "Gesture2Vec",
-                "stars": 27
+                "stars": 27,
+                "topics": [
+                  "affective-computing",
+                  "co-speech-gesture",
+                  "gesture-generation",
+                  "human-robot-interaction",
+                  "machine-learning",
+                  "vector-quantization"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -560,12 +749,19 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The ReprGesture entry to the GENEA Challenge 2022 (IMCI 2022)",
+                "homepage": null,
                 "id": 471311175,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2022-11-08T18:20:29Z",
+                "open_issues": 1,
                 "owner": "YoungSeng",
                 "repo": "ReprGesture",
-                "stars": 16
+                "stars": 16,
+                "topics": [
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -583,12 +779,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICCV 2021] The official repo for the paper \"Speech Drives Templates: Co-Speech Gesture Synthesis with Learned Templates\".",
+                "homepage": null,
                 "id": 397205219,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-06-03T18:24:42Z",
+                "open_issues": 6,
                 "owner": "ShenhanQian",
                 "repo": "SpeechDrivesTemplates",
-                "stars": 98
+                "stars": 98,
+                "topics": [
+                  "co-speech-gesture",
+                  "pytorch"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -599,12 +803,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The official code for our paper \"A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents\", published as a demonstration at AAMAS 2021.",
+                "homepage": "http://www.ifaamas.org/Proceedings/aamas2021/pdfs/p1779.pdf",
                 "id": 331036807,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-05-04T13:20:01Z",
+                "open_issues": 0,
                 "owner": "nagyrajmund",
                 "repo": "gesturebot",
-                "stars": 36
+                "stars": 36,
+                "topics": [
+                  "deep-learning",
+                  "human-computer-interaction",
+                  "unity",
+                  "virtual-agents"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -615,12 +829,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation of the paper \"Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents\".",
+                "homepage": "https://gamma.umd.edu/t2g/",
                 "id": 251157042,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2021-11-16T15:10:20Z",
+                "open_issues": 1,
                 "owner": "UttaranB127",
                 "repo": "Text2Gestures",
-                "stars": 31
+                "stars": 31,
+                "topics": [
+                  "affective-computing",
+                  "gesture-generation",
+                  "intelligent-agent",
+                  "text-processing",
+                  "virtual-agent"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -631,12 +856,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official repository for the paper Crossmodal clustered contrastive learning: Grounding of spoken language to gesture",
+                "homepage": null,
                 "id": 401924669,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-11-11T16:06:27Z",
+                "open_issues": 1,
                 "owner": "dondongwon",
                 "repo": "CC_NCE_GENEA",
-                "stars": 8
+                "stars": 8,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -654,12 +884,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 245422606,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-08T09:15:00Z",
+                "open_issues": 15,
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 487
+                "stars": 487,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -670,12 +905,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 245422606,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2023-08-08T09:15:00Z",
+                "open_issues": 15,
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 487
+                "stars": 487,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -686,12 +926,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity (SIGGRAPH Asia 2020)",
+                "homepage": null,
                 "id": 285262529,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-12-14T15:43:41Z",
+                "open_issues": 4,
                 "owner": "ai4r",
                 "repo": "Gesture-Generation-from-Trimodal-Context",
-                "stars": 277
+                "stars": 277,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -702,12 +947,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The official implementation for ICMI 2020 Best Paper Award  \"Gesticulator: A framework for semantically-aware speech-driven gesture generation\"",
+                "homepage": "https://svito-zar.github.io/gesticulator/",
                 "id": 288691739,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-16T02:05:53Z",
+                "open_issues": 10,
                 "owner": "Svito-zar",
                 "repo": "gesticulator",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "agents",
+                  "animation",
+                  "autoregression",
+                  "gesture-generation",
+                  "gestures",
+                  "graphics",
+                  "human-computer-interaction",
+                  "machine-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -718,12 +978,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "The official implementation for ICMI 2020 Best Paper Award  \"Gesticulator: A framework for semantically-aware speech-driven gesture generation\"",
+                "homepage": "https://svito-zar.github.io/gesticulator/",
                 "id": 288691739,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2023-02-16T02:05:53Z",
+                "open_issues": 10,
                 "owner": "Svito-zar",
                 "repo": "gesticulator",
-                "stars": 128
+                "stars": 128,
+                "topics": [
+                  "agents",
+                  "animation",
+                  "autoregression",
+                  "gesture-generation",
+                  "gestures",
+                  "graphics",
+                  "human-computer-interaction",
+                  "machine-learning",
+                  "neural-networks"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -734,12 +1009,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Official Repository for the paper \"No Gestures Left Behind: Learning Relationships between Spoken Language and Freeform Gestures\", Findings at EMNLP 2020",
+                "homepage": null,
                 "id": 314303545,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2021-06-13T21:31:15Z",
+                "open_issues": 1,
                 "owner": "chahuja",
                 "repo": "aisle",
-                "stars": 20
+                "stars": 20,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -750,12 +1030,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Scripts for numerical evaluations for the GENEA Gesture Generation Challenge",
+                "homepage": "https://genea-workshop.github.io/2020/#gesture-generation-challenge",
                 "id": 290159171,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-09-27T04:42:44Z",
+                "open_issues": 2,
                 "owner": "Svito-zar",
                 "repo": "genea_numerical_evaluations",
-                "stars": 10
+                "stars": 10,
+                "topics": [
+                  "gesture",
+                  "gesture-generation",
+                  "synthesis"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -766,12 +1055,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 276849927,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-07-25T11:02:08Z",
+                "open_issues": 1,
                 "owner": "FineMotion",
                 "repo": "GENEA_2020",
-                "stars": 5
+                "stars": 5,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -782,12 +1076,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": "https://doi.org/10.3390/electronics10030228",
                 "id": 296269869,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2021-09-09T06:19:13Z",
+                "open_issues": 0,
                 "owner": "wubowen416",
                 "repo": "co-speech-gesture-generation-using-CGAN",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -805,12 +1104,28 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the official implementation for IVA '19 paper \"Analyzing Input and Output Representations for Speech-Driven Gesture Generation\".",
+                "homepage": "https://svito-zar.github.io/audio2gestures/",
                 "id": 164457247,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2023-07-06T21:45:05Z",
+                "open_issues": 4,
                 "owner": "GestureGeneration",
                 "repo": "Speech_driven_gesture_generation_with_autoencoder",
-                "stars": 110
+                "stars": 110,
+                "topics": [
+                  "autoencoder",
+                  "deep-learning",
+                  "generation",
+                  "gesture",
+                  "gesture-controller",
+                  "gesture-generation",
+                  "hri",
+                  "keras",
+                  "neural-network",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -828,12 +1143,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is the official implementation of the paper \"A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture\"",
+                "homepage": null,
                 "id": 77453660,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-22T09:21:10Z",
+                "open_issues": 0,
                 "owner": "Svito-zar",
                 "repo": "NN-for-Missing-Marker-Reconstruction",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "autoencoder",
+                  "deep-learning",
+                  "missing-data",
+                  "missing-markers",
+                  "motion-capture",
+                  "motion-capture-processing",
+                  "neural-networks",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -844,12 +1173,26 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "This is the official implementation of the paper \"A Neural Network Approach to Missing Marker Reconstruction in Human Motion Capture\"",
+                "homepage": null,
                 "id": 77453660,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2021-01-22T09:21:10Z",
+                "open_issues": 0,
                 "owner": "Svito-zar",
                 "repo": "NN-for-Missing-Marker-Reconstruction",
-                "stars": 39
+                "stars": 39,
+                "topics": [
+                  "autoencoder",
+                  "deep-learning",
+                  "missing-data",
+                  "missing-markers",
+                  "motion-capture",
+                  "motion-capture-processing",
+                  "neural-networks",
+                  "tensorflow"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -867,12 +1210,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A motion generation model learned from a single example [SIGGRAPH 2022]",
+                "homepage": null,
                 "id": 488601986,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-06-28T09:29:35Z",
+                "open_issues": 10,
                 "owner": "PeizhuoLi",
                 "repo": "ganimator",
-                "stars": 411
+                "stars": 411,
+                "topics": [
+                  "character-animation",
+                  "computer-animation",
+                  "computer-graphics",
+                  "deep-learning"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -903,12 +1256,27 @@
                       "children": [],
                       "repo_info": {
                         "archived": true,
+                        "description": "The official implementation for ICMI 2020 Best Paper Award  \"Gesticulator: A framework for semantically-aware speech-driven gesture generation\"",
+                        "homepage": "https://svito-zar.github.io/gesticulator/",
                         "id": 288691739,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-02-16T02:05:53Z",
+                        "open_issues": 10,
                         "owner": "Svito-zar",
                         "repo": "gesticulator",
-                        "stars": 128
+                        "stars": 128,
+                        "topics": [
+                          "agents",
+                          "animation",
+                          "autoregression",
+                          "gesture-generation",
+                          "gestures",
+                          "graphics",
+                          "human-computer-interaction",
+                          "machine-learning",
+                          "neural-networks"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -926,12 +1294,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity (SIGGRAPH Asia 2020)",
+                        "homepage": null,
                         "id": 285262529,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2021-12-14T15:43:41Z",
+                        "open_issues": 4,
                         "owner": "ai4r",
                         "repo": "Gesture-Generation-from-Trimodal-Context",
-                        "stars": 277
+                        "stars": 277,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -942,12 +1315,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR 2022] Code for \"Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation\"",
+                        "homepage": "https://alvinliu0.github.io/projects/HA2G",
                         "id": 471211488,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2023-03-16T09:02:44Z",
+                        "open_issues": 14,
                         "owner": "alvinliu0",
                         "repo": "HA2G",
-                        "stars": 144
+                        "stars": 144,
+                        "topics": [
+                          "audio-visual-learning",
+                          "co-speech-gesture",
+                          "cvpr2022"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -958,12 +1340,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is the official implementation of the paper \"Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning\". ",
+                        "homepage": "https://gamma.umd.edu/s2ag/",
                         "id": 339868803,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2023-02-28T18:55:00Z",
+                        "open_issues": 11,
                         "owner": "UttaranB127",
                         "repo": "speech2affective_gestures",
-                        "stars": 55
+                        "stars": 55,
+                        "topics": [
+                          "affective-computing",
+                          "gesture-generation",
+                          "intelligent-agent",
+                          "speech-processing",
+                          "text-processing",
+                          "virtual-agent"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -981,12 +1375,23 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "This is the official implementation of the paper \"Text2Gestures: A Transformer-Based Network for Generating Emotive Body Gestures for Virtual Agents\".",
+                        "homepage": "https://gamma.umd.edu/t2g/",
                         "id": 251157042,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2021-11-16T15:10:20Z",
+                        "open_issues": 1,
                         "owner": "UttaranB127",
                         "repo": "Text2Gestures",
-                        "stars": 31
+                        "stars": 31,
+                        "topics": [
+                          "affective-computing",
+                          "gesture-generation",
+                          "intelligent-agent",
+                          "text-processing",
+                          "virtual-agent"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -1004,12 +1409,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 736239610,
                         "language": null,
+                        "license": null,
                         "last_commit": "2025-06-26T11:53:51Z",
+                        "open_issues": 4,
                         "owner": "PantoMatrix",
                         "repo": "BEAT",
-                        "stars": 55
+                        "stars": 55,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -1025,12 +1435,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": null,
+                            "homepage": null,
                             "id": 245422606,
                             "language": "Python",
+                            "license": "NOASSERTION",
                             "last_commit": "2023-08-08T09:15:00Z",
+                            "open_issues": 15,
                             "owner": "simonalexanderson",
                             "repo": "StyleGestures",
-                            "stars": 487
+                            "stars": 487,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:21:37.604Z"
                         }
@@ -1048,12 +1463,22 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Freeform Body Motion Generation from Speech",
+                            "homepage": null,
                             "id": 418147751,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2022-11-12T03:56:58Z",
+                            "open_issues": 22,
                             "owner": "TheTempAccount",
                             "repo": "Co-Speech-Motion-Generation",
-                            "stars": 210
+                            "stars": 210,
+                            "topics": [
+                              "co-speech-gesture",
+                              "generation-algorithms",
+                              "gesture-controller",
+                              "talking-head"
+                            ]
                           },
                           "first_seen": "2026-08-29T02:21:37.604Z"
                         },
@@ -1064,12 +1489,17 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "Audio2Motion Official implementation for Audio2Motion: Generating Diverse Gestures from Speech with Conditional Variational Autoencoders.",
+                            "homepage": null,
                             "id": 393409701,
                             "language": "Python",
+                            "license": null,
                             "last_commit": "2024-01-01T23:52:33Z",
+                            "open_issues": 15,
                             "owner": "JingLi513",
                             "repo": "Audio2Gestures",
-                            "stars": 151
+                            "stars": 151,
+                            "topics": []
                           },
                           "first_seen": "2026-08-29T02:21:37.604Z"
                         }
@@ -1087,12 +1517,20 @@
                           "children": [],
                           "repo_info": {
                             "archived": false,
+                            "description": "[ICCV 2021] The official repo for the paper \"Speech Drives Templates: Co-Speech Gesture Synthesis with Learned Templates\".",
+                            "homepage": null,
                             "id": 397205219,
                             "language": "Python",
+                            "license": "MIT",
                             "last_commit": "2023-06-03T18:24:42Z",
+                            "open_issues": 6,
                             "owner": "ShenhanQian",
                             "repo": "SpeechDrivesTemplates",
-                            "stars": 98
+                            "stars": 98,
+                            "topics": [
+                              "co-speech-gesture",
+                              "pytorch"
+                            ]
                           },
                           "first_seen": "2026-08-29T02:21:37.604Z"
                         }
@@ -1112,12 +1550,24 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "[CVPR'2023] Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation",
+                        "homepage": null,
                         "id": 612845360,
                         "language": "Python",
+                        "license": "GPL-3.0",
                         "last_commit": "2026-03-18T08:59:16Z",
+                        "open_issues": 0,
                         "owner": "Advocate99",
                         "repo": "DiffGesture",
-                        "stars": 265
+                        "stars": 265,
+                        "topics": [
+                          "aigc",
+                          "animation",
+                          "audio-driven",
+                          "cvpr2023",
+                          "diffusion-models",
+                          "gesture-generation"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -1128,12 +1578,21 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models (IJCAI 2023) | The DiffuseStyleGesture+ entry to the GENEA Challenge 2023 (ICMI 2023, Reproducibility Award)",
+                        "homepage": null,
                         "id": 638529251,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2026-04-09T07:24:30Z",
+                        "open_issues": 6,
                         "owner": "YoungSeng",
                         "repo": "DiffuseStyleGesture",
-                        "stars": 214
+                        "stars": 214,
+                        "topics": [
+                          "diffusion-models",
+                          "gesture-generation",
+                          "multimodal"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -1151,12 +1610,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": null,
+                        "homepage": null,
                         "id": 544895065,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2025-03-01T09:11:36Z",
+                        "open_issues": 7,
                         "owner": "Aubrey-ao",
                         "repo": "HumanBehaviorAnimation",
-                        "stars": 223
+                        "stars": 223,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     },
@@ -1167,12 +1631,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation (CVPR 2023 Highlight)",
+                        "homepage": null,
                         "id": 642500010,
                         "language": "Python",
+                        "license": null,
                         "last_commit": "2023-10-18T14:20:13Z",
+                        "open_issues": 4,
                         "owner": "YoungSeng",
                         "repo": "QPGesture",
-                        "stars": 106
+                        "stars": 106,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -1190,12 +1659,20 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Official implementation for \"Generating Diverse and Natural 3D Human Motions from Texts (CVPR2022).\"",
+                        "homepage": null,
                         "id": 469479246,
                         "language": "Python",
+                        "license": "MIT",
                         "last_commit": "2024-08-18T00:21:07Z",
+                        "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 717
+                        "stars": 717,
+                        "topics": [
+                          "motion-generation",
+                          "pytorch-implementation"
+                        ]
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -1213,12 +1690,17 @@
                       "children": [],
                       "repo_info": {
                         "archived": false,
+                        "description": "Code for SEEG: Semantic Energized Co-speech Gesture Generation",
+                        "homepage": null,
                         "id": 466992154,
                         "language": "Python",
+                        "license": "NOASSERTION",
                         "last_commit": "2022-12-03T11:14:13Z",
+                        "open_issues": 0,
                         "owner": "akira-l",
                         "repo": "SEEG",
-                        "stars": 33
+                        "stars": 33,
+                        "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
                     }
@@ -1247,12 +1729,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "code for training the models from the paper \"Learning Individual Styles of Conversational Gestures\"",
+            "homepage": null,
             "id": 179192868,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-06T19:07:58Z",
+            "open_issues": 14,
             "owner": "amirbar",
             "repo": "speech2gesture",
-            "stars": 394
+            "stars": 394,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1263,12 +1750,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains scripts to build Youtube Gesture Dataset.",
+            "homepage": "https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation",
             "id": 179186315,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-11-09T22:23:05Z",
+            "open_issues": 2,
             "owner": "youngwoo-yoon",
             "repo": "youtube-gesture-dataset",
-            "stars": 132
+            "stars": 132,
+            "topics": [
+              "co-speech-gesture",
+              "deep-learning",
+              "pose-estimation",
+              "youtube"
+            ]
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1279,12 +1776,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Talking with Hands",
+            "homepage": null,
             "id": 212721632,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2021-08-20T13:17:09Z",
+            "open_issues": 3,
             "owner": "facebookresearch",
             "repo": "TalkingWithHands32M",
-            "stars": 99
+            "stars": 99,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1295,12 +1797,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PATS Dataset. Aligned Pose-Audio-Transcripts and Style for co-speech gesture research ",
+            "homepage": "http://chahuja.com/pats",
             "id": 279357529,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-15T10:54:12Z",
+            "open_issues": 9,
             "owner": "chahuja",
             "repo": "pats",
-            "stars": 66
+            "stars": 66,
+            "topics": [
+              "co-speech-gesture",
+              "generative-adversarial-network",
+              "generative-model",
+              "gesture",
+              "gesture-generation"
+            ]
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1311,12 +1824,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ZeroEGGS: Zero-Shot Example-Based Gesture Generation from Speech",
+            "homepage": null,
             "id": 538686235,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-16T12:50:43Z",
+            "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
-            "stars": 427
+            "stars": 427,
+            "topics": [
+              "character-animation"
+            ]
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1327,12 +1847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 736239610,
             "language": null,
+            "license": null,
             "last_commit": "2025-06-26T11:53:51Z",
+            "open_issues": 4,
             "owner": "PantoMatrix",
             "repo": "BEAT",
-            "stars": 55
+            "stars": 55,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         }
@@ -1354,12 +1879,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents (UIST 2021)",
+                "homepage": null,
                 "id": 380572482,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-09-14T04:21:24Z",
+                "open_issues": 1,
                 "owner": "ai4r",
                 "repo": "SGToolkit",
-                "stars": 45
+                "stars": 45,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -1377,12 +1907,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenPose: Real-time multi-person keypoint detection library for body, face, hands, and foot estimation",
+                "homepage": "https://cmu-perceptual-computing-lab.github.io/openpose",
                 "id": 89247811,
                 "language": "C++",
+                "license": "NOASSERTION",
                 "last_commit": "2024-08-03T01:59:11Z",
+                "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34417
+                "stars": 34417,
+                "topics": [
+                  "caffe",
+                  "computer-vision",
+                  "cpp",
+                  "cvpr-2017",
+                  "deep-learning",
+                  "face",
+                  "foot-estimation",
+                  "hand-estimation",
+                  "human-behavior-understanding",
+                  "human-pose",
+                  "human-pose-estimation",
+                  "keypoint-detection",
+                  "keypoints",
+                  "machine-learning",
+                  "multi-person",
+                  "opencv",
+                  "openpose",
+                  "pose",
+                  "pose-estimation",
+                  "real-time"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -1393,12 +1949,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Real-Time and Accurate Full-Body Multi-Person Pose Estimation&Tracking System",
+                "homepage": "http://mvig.org/research/alphapose.html",
                 "id": 117772329,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-13T14:33:34Z",
+                "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8598
+                "stars": 8598,
+                "topics": [
+                  "accurate",
+                  "alpha-pose",
+                  "alphapose",
+                  "crowdpose",
+                  "full-body",
+                  "gpu",
+                  "human-computer-interaction",
+                  "human-joints",
+                  "human-pose-estimation",
+                  "human-pose-tracking",
+                  "human-tracking",
+                  "keypoints",
+                  "person-pose-estimation",
+                  "pose-estimation",
+                  "posetracking",
+                  "pytorch",
+                  "realtime",
+                  "skeleton",
+                  "tracking",
+                  "whole-body"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -1409,12 +1991,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "OpenMMLab Pose Estimation Toolbox and Benchmark.",
+                "homepage": "https://mmpose.readthedocs.io/en/latest/",
                 "id": 278003645,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2025-08-04T07:30:50Z",
+                "open_issues": 333,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7859
+                "stars": 7859,
+                "topics": [
+                  "animal-pose-estimation",
+                  "benchmark",
+                  "cpm",
+                  "crowdpose",
+                  "face-keypoint",
+                  "freihand",
+                  "hand-pose-estimation",
+                  "higher-hrnet",
+                  "hourglass",
+                  "hrnet",
+                  "human-pose",
+                  "mmpose",
+                  "mpii",
+                  "mspn",
+                  "ochuman",
+                  "pose-estimation",
+                  "pytorch",
+                  "rsn",
+                  "rtmpose",
+                  "udp"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -1432,12 +2040,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Utility to trim a BVH file by excerpting a subset of its frames",
+                "homepage": null,
                 "id": 523459278,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2022-08-10T18:51:12Z",
+                "open_issues": 0,
                 "owner": "ghenter",
                 "repo": "trim_bvh",
-                "stars": 1
+                "stars": 1,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -1455,12 +2068,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This repository contains data pre-processing and visualization scripts used in GENEA Challenge 2022 and 2023. Check the repository's README.md file for instructions on how to use scripts yourself.",
+                "homepage": "https://genea-workshop.github.io/2023/challenge/",
                 "id": 491836865,
                 "language": "Python",
+                "license": "CC-BY-4.0",
                 "last_commit": "2025-05-29T07:33:15Z",
+                "open_issues": 1,
                 "owner": "TeoNikolov",
                 "repo": "genea_visualizer",
-                "stars": 28
+                "stars": 28,
+                "topics": [
+                  "blender",
+                  "data-visualization",
+                  "genea-challenge",
+                  "gesture-generation",
+                  "open-science"
+                ]
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -1471,12 +2095,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Experiment framework based on webMUSHRA for comparing videos in a MUSHRA-like way",
+                "homepage": null,
                 "id": 288146191,
                 "language": "JavaScript",
+                "license": "NOASSERTION",
                 "last_commit": "2024-05-30T11:30:35Z",
+                "open_issues": 2,
                 "owner": "jonepatr",
                 "repo": "hemvip",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             }
@@ -1495,12 +2124,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is an implementation of Robots learn social skills: End-to-end learning of co-speech gesture generation for humanoid robots.",
+            "homepage": "https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation",
             "id": 275562418,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-12-09T04:38:05Z",
+            "open_issues": 4,
             "owner": "youngwoo-yoon",
             "repo": "Co-Speech_Gesture_Generation",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1511,12 +2145,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scripts for numerical evaluations for the GENEA Gesture Generation Challenge",
+            "homepage": "https://genea-workshop.github.io/2022/challenge/",
             "id": 327918678,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-28T05:51:35Z",
+            "open_issues": 0,
             "owner": "genea-workshop",
             "repo": "genea_numerical_evaluations",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "challenge",
+              "gesture-generation",
+              "gestures",
+              "human-computer-interaction"
+            ]
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1527,12 +2171,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official implementation for IVA '19 paper \"Analyzing Input and Output Representations for Speech-Driven Gesture Generation\".",
+            "homepage": "https://svito-zar.github.io/audio2gestures/",
             "id": 489010673,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2022-07-12T15:10:25Z",
+            "open_issues": 2,
             "owner": "genea-workshop",
             "repo": "Speech_driven_gesture_generation_with_autoencoder",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1543,12 +2192,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiment framework based on webMUSHRA for comparing videos in a MUSHRA-like way",
+            "homepage": null,
             "id": 288146191,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-30T11:30:35Z",
+            "open_issues": 2,
             "owner": "jonepatr",
             "repo": "hemvip",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1559,12 +2213,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for machine learning research on motion capture data ",
+            "homepage": "https://omid.al/projects/pymo/",
             "id": 536440606,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-09-21T08:50:25Z",
+            "open_issues": 0,
             "owner": "youngwoo-yoon",
             "repo": "PyMO",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1575,12 +2234,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility to trim a BVH file by excerpting a subset of its frames",
+            "homepage": null,
             "id": 523459278,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2022-08-10T18:51:12Z",
+            "open_issues": 0,
             "owner": "ghenter",
             "repo": "trim_bvh",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         },
@@ -1591,12 +2255,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 526081643,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-18T06:18:02Z",
+            "open_issues": 0,
             "owner": "youngwoo-yoon",
             "repo": "create_attention_check",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
         }
@@ -1620,12 +2289,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity (SIGGRAPH Asia 2020)",
+                    "homepage": null,
                     "id": 285262529,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-12-14T15:43:41Z",
+                    "open_issues": 4,
                     "owner": "ai4r",
                     "repo": "Gesture-Generation-from-Trimodal-Context",
-                    "stars": 277
+                    "stars": 277,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 },
@@ -1636,12 +2310,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 544895065,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2025-03-01T09:11:36Z",
+                    "open_issues": 7,
                     "owner": "Aubrey-ao",
                     "repo": "HumanBehaviorAnimation",
-                    "stars": 223
+                    "stars": 223,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 },
@@ -1652,12 +2331,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[CVPR 2022] Code for \"Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation\"",
+                    "homepage": "https://alvinliu0.github.io/projects/HA2G",
                     "id": 471211488,
                     "language": "Python",
+                    "license": "GPL-3.0",
                     "last_commit": "2023-03-16T09:02:44Z",
+                    "open_issues": 14,
                     "owner": "alvinliu0",
                     "repo": "HA2G",
-                    "stars": 144
+                    "stars": 144,
+                    "topics": [
+                      "audio-visual-learning",
+                      "co-speech-gesture",
+                      "cvpr2022"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 },
@@ -1668,12 +2356,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "This is the official implementation of the paper \"Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning\". ",
+                    "homepage": "https://gamma.umd.edu/s2ag/",
                     "id": 339868803,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-02-28T18:55:00Z",
+                    "open_issues": 11,
                     "owner": "UttaranB127",
                     "repo": "speech2affective_gestures",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": [
+                      "affective-computing",
+                      "gesture-generation",
+                      "intelligent-agent",
+                      "speech-processing",
+                      "text-processing",
+                      "virtual-agent"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 },
@@ -1684,12 +2384,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Implementation of AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis with the extension (AQ-GT-A) from the paper Augmented Co-Speech Gesture Generation: Including Form and Meaning Features to Guide Learning-Based Gesture Synthesis. ",
+                    "homepage": null,
                     "id": 692000341,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2024-04-19T08:22:07Z",
+                    "open_issues": 1,
                     "owner": "hvoss-tech",
                     "repo": "AQGT",
-                    "stars": 20
+                    "stars": 20,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 }
@@ -1707,12 +2412,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "code for training the models from the paper \"Learning Individual Styles of Conversational Gestures\"",
+                    "homepage": null,
                     "id": 179192868,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2024-03-06T19:07:58Z",
+                    "open_issues": 14,
                     "owner": "amirbar",
                     "repo": "speech2gesture",
-                    "stars": 394
+                    "stars": 394,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 },
@@ -1723,12 +2433,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity (SIGGRAPH Asia 2020)",
+                    "homepage": null,
                     "id": 285262529,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2021-12-14T15:43:41Z",
+                    "open_issues": 4,
                     "owner": "ai4r",
                     "repo": "Gesture-Generation-from-Trimodal-Context",
-                    "stars": 277
+                    "stars": 277,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 },
@@ -1739,12 +2454,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": null,
                     "id": 736239610,
                     "language": null,
+                    "license": null,
                     "last_commit": "2025-06-26T11:53:51Z",
+                    "open_issues": 4,
                     "owner": "PantoMatrix",
                     "repo": "BEAT",
-                    "stars": 55
+                    "stars": 55,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
                 }
@@ -1760,15 +2480,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:21:37.604Z",
+    "last_updated": "2026-08-29T04:48:00.696Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome Gesture Generation",
+      "homepage": "https://openhuman-ai.github.io/awesome-gesture_generation/",
       "id": 617007100,
       "language": null,
+      "license": "MIT",
       "last_commit": "2025-11-08T06:19:56Z",
+      "open_issues": 2,
       "owner": "openhuman-ai",
       "repo": "awesome-gesture_generation",
-      "stars": 249
+      "stars": 249,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "co-speech-gesture",
+        "deep-learning",
+        "generative-model",
+        "gesture-generation",
+        "gestures",
+        "machine-learning",
+        "neural-network",
+        "papers",
+        "resources",
+        "synthesis",
+        "virtual-agent"
+      ]
     },
     "original_repository_sha": "418311e2008edccd7415a1f583d64fd547b208fb",
     "enhanced_repository": "enhansome/enhansome-gesture_generation",
