@@ -22,7 +22,8 @@
                         "owner": "JonathanPWindle",
                         "repo": "UEA-DH-GENEA23",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ],
                   "description": null,
@@ -44,7 +45,8 @@
                         "owner": "aldelb",
                         "repo": "non_verbal_facial_animation",
                         "stars": 4
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ],
                   "description": null,
@@ -73,7 +75,8 @@
                         "owner": "FineMotion",
                         "repo": "GENEA_2022",
                         "stars": 2
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -88,7 +91,8 @@
                         "owner": "cjerry1243",
                         "repo": "Tacotron2-SpeechGesture",
                         "stars": 13
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -103,7 +107,8 @@
                         "owner": "YoungSeng",
                         "repo": "ReprGesture",
                         "stars": 16
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -118,7 +123,8 @@
                         "owner": "UEA-digital-human-group",
                         "repo": "GENEA22",
                         "stars": 0
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ],
                   "description": null,
@@ -147,7 +153,8 @@
                         "owner": "wubowen416",
                         "repo": "gesture-generation-using-WGAN",
                         "stars": 14
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -162,7 +169,8 @@
                         "owner": "dondongwon",
                         "repo": "CC_NCE_GENEA",
                         "stars": 8
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ],
                   "description": null,
@@ -191,7 +199,8 @@
                         "owner": "simonalexanderson",
                         "repo": "StyleGestures",
                         "stars": 487
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -206,7 +215,8 @@
                         "owner": "FineMotion",
                         "repo": "GENEA_2020",
                         "stars": 5
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ],
                   "description": null,
@@ -238,7 +248,8 @@
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
                 "stars": 1293
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -253,7 +264,8 @@
                 "owner": "kiranchhatre",
                 "repo": "amuse",
                 "stars": 143
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -268,7 +280,8 @@
                 "owner": "LuMen-ze",
                 "repo": "Semantic-Gesticulator-Official",
                 "stars": 137
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -283,7 +296,8 @@
                 "owner": "kkakkkka",
                 "repo": "MambaTalk",
                 "stars": 87
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -298,7 +312,8 @@
                 "owner": "RobinWitch",
                 "repo": "SynTalker",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -313,7 +328,8 @@
                 "owner": "Ditzley",
                 "repo": "DiffTED",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -328,7 +344,8 @@
                 "owner": "AI-Unicamp",
                 "repo": "gesture-area-coverage",
                 "stars": 4
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -350,7 +367,8 @@
                 "owner": "Advocate99",
                 "repo": "DiffGesture",
                 "stars": 265
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -365,7 +383,8 @@
                 "owner": "YoungSeng",
                 "repo": "DiffuseStyleGesture",
                 "stars": 214
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -380,7 +399,8 @@
                 "owner": "YoungSeng",
                 "repo": "QPGesture",
                 "stars": 106
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -395,7 +415,8 @@
                 "owner": "YoungSeng",
                 "repo": "UnifiedGesture",
                 "stars": 57
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -410,7 +431,8 @@
                 "owner": "XingqunQi-lab",
                 "repo": "Diverse-3D-Hand-Gesture-Prediction",
                 "stars": 23
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -425,7 +447,8 @@
                 "owner": "hvoss-tech",
                 "repo": "AQGT",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -440,7 +463,8 @@
                 "owner": "RLracer",
                 "repo": "RACER",
                 "stars": 6
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -455,7 +479,8 @@
                 "owner": "SSYSteve",
                 "repo": "MRecGen",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -477,7 +502,8 @@
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
                 "stars": 427
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -492,7 +518,8 @@
                 "owner": "alvinliu0",
                 "repo": "HA2G",
                 "stars": 144
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -507,7 +534,8 @@
                 "owner": "akira-l",
                 "repo": "SEEG",
                 "stars": 33
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -522,7 +550,8 @@
                 "owner": "pjyazdian",
                 "repo": "Gesture2Vec",
                 "stars": 27
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -537,7 +566,8 @@
                 "owner": "YoungSeng",
                 "repo": "ReprGesture",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -559,7 +589,8 @@
                 "owner": "ShenhanQian",
                 "repo": "SpeechDrivesTemplates",
                 "stars": 98
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -574,7 +605,8 @@
                 "owner": "nagyrajmund",
                 "repo": "gesturebot",
                 "stars": 36
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -589,7 +621,8 @@
                 "owner": "UttaranB127",
                 "repo": "Text2Gestures",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -604,7 +637,8 @@
                 "owner": "dondongwon",
                 "repo": "CC_NCE_GENEA",
                 "stars": 8
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -626,7 +660,8 @@
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -641,7 +676,8 @@
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
                 "stars": 487
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -656,7 +692,8 @@
                 "owner": "ai4r",
                 "repo": "Gesture-Generation-from-Trimodal-Context",
                 "stars": 277
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -671,7 +708,8 @@
                 "owner": "Svito-zar",
                 "repo": "gesticulator",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -686,7 +724,8 @@
                 "owner": "Svito-zar",
                 "repo": "gesticulator",
                 "stars": 128
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -701,7 +740,8 @@
                 "owner": "chahuja",
                 "repo": "aisle",
                 "stars": 20
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -716,7 +756,8 @@
                 "owner": "Svito-zar",
                 "repo": "genea_numerical_evaluations",
                 "stars": 10
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -731,7 +772,8 @@
                 "owner": "FineMotion",
                 "repo": "GENEA_2020",
                 "stars": 5
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -746,7 +788,8 @@
                 "owner": "wubowen416",
                 "repo": "co-speech-gesture-generation-using-CGAN",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -768,7 +811,8 @@
                 "owner": "GestureGeneration",
                 "repo": "Speech_driven_gesture_generation_with_autoencoder",
                 "stars": 110
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -790,7 +834,8 @@
                 "owner": "Svito-zar",
                 "repo": "NN-for-Missing-Marker-Reconstruction",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -805,7 +850,8 @@
                 "owner": "Svito-zar",
                 "repo": "NN-for-Missing-Marker-Reconstruction",
                 "stars": 39
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": null,
@@ -827,7 +873,8 @@
                 "owner": "PeizhuoLi",
                 "repo": "ganimator",
                 "stars": 411
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ],
           "description": "Others",
@@ -862,7 +909,8 @@
                         "owner": "Svito-zar",
                         "repo": "gesticulator",
                         "stars": 128
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 },
@@ -884,7 +932,8 @@
                         "owner": "ai4r",
                         "repo": "Gesture-Generation-from-Trimodal-Context",
                         "stars": 277
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -899,7 +948,8 @@
                         "owner": "alvinliu0",
                         "repo": "HA2G",
                         "stars": 144
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -914,7 +964,8 @@
                         "owner": "UttaranB127",
                         "repo": "speech2affective_gestures",
                         "stars": 55
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 },
@@ -936,7 +987,8 @@
                         "owner": "UttaranB127",
                         "repo": "Text2Gestures",
                         "stars": 31
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 },
@@ -958,7 +1010,8 @@
                         "owner": "PantoMatrix",
                         "repo": "BEAT",
                         "stars": 55
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "group",
@@ -978,7 +1031,8 @@
                             "owner": "simonalexanderson",
                             "repo": "StyleGestures",
                             "stars": 487
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:21:37.604Z"
                         }
                       ]
                     },
@@ -1000,7 +1054,8 @@
                             "owner": "TheTempAccount",
                             "repo": "Co-Speech-Motion-Generation",
                             "stars": 210
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:21:37.604Z"
                         },
                         {
                           "node_type": "item",
@@ -1015,7 +1070,8 @@
                             "owner": "JingLi513",
                             "repo": "Audio2Gestures",
                             "stars": 151
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:21:37.604Z"
                         }
                       ]
                     },
@@ -1037,7 +1093,8 @@
                             "owner": "ShenhanQian",
                             "repo": "SpeechDrivesTemplates",
                             "stars": 98
-                          }
+                          },
+                          "first_seen": "2026-08-29T02:21:37.604Z"
                         }
                       ]
                     }
@@ -1061,7 +1118,8 @@
                         "owner": "Advocate99",
                         "repo": "DiffGesture",
                         "stars": 265
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -1076,7 +1134,8 @@
                         "owner": "YoungSeng",
                         "repo": "DiffuseStyleGesture",
                         "stars": 214
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 },
@@ -1098,7 +1157,8 @@
                         "owner": "Aubrey-ao",
                         "repo": "HumanBehaviorAnimation",
                         "stars": 223
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     },
                     {
                       "node_type": "item",
@@ -1113,7 +1173,8 @@
                         "owner": "YoungSeng",
                         "repo": "QPGesture",
                         "stars": 106
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 },
@@ -1135,7 +1196,8 @@
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
                         "stars": 717
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 },
@@ -1157,7 +1219,8 @@
                         "owner": "akira-l",
                         "repo": "SEEG",
                         "stars": 33
-                      }
+                      },
+                      "first_seen": "2026-08-29T02:21:37.604Z"
                     }
                   ]
                 }
@@ -1190,7 +1253,8 @@
             "owner": "amirbar",
             "repo": "speech2gesture",
             "stars": 394
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1205,7 +1269,8 @@
             "owner": "youngwoo-yoon",
             "repo": "youtube-gesture-dataset",
             "stars": 132
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1220,7 +1285,8 @@
             "owner": "facebookresearch",
             "repo": "TalkingWithHands32M",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1235,7 +1301,8 @@
             "owner": "chahuja",
             "repo": "pats",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1250,7 +1317,8 @@
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
             "stars": 427
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1265,7 +1333,8 @@
             "owner": "PantoMatrix",
             "repo": "BEAT",
             "stars": 55
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         }
       ],
       "title": "4. Datasets"
@@ -1291,7 +1360,8 @@
                 "owner": "ai4r",
                 "repo": "SGToolkit",
                 "stars": 45
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ]
         },
@@ -1312,8 +1382,9 @@
                 "last_commit": "2024-08-03T01:59:11Z",
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34418
-              }
+                "stars": 34417
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -1328,7 +1399,8 @@
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
                 "stars": 8598
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -1343,7 +1415,8 @@
                 "owner": "open-mmlab",
                 "repo": "mmpose",
                 "stars": 7859
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ]
         },
@@ -1365,7 +1438,8 @@
                 "owner": "ghenter",
                 "repo": "trim_bvh",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ]
         },
@@ -1387,7 +1461,8 @@
                 "owner": "TeoNikolov",
                 "repo": "genea_visualizer",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             },
             {
               "node_type": "item",
@@ -1402,7 +1477,8 @@
                 "owner": "jonepatr",
                 "repo": "hemvip",
                 "stars": 9
-              }
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
             }
           ]
         }
@@ -1425,7 +1501,8 @@
             "owner": "youngwoo-yoon",
             "repo": "Co-Speech_Gesture_Generation",
             "stars": 82
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1440,7 +1517,8 @@
             "owner": "genea-workshop",
             "repo": "genea_numerical_evaluations",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1455,7 +1533,8 @@
             "owner": "genea-workshop",
             "repo": "Speech_driven_gesture_generation_with_autoencoder",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1470,7 +1549,8 @@
             "owner": "jonepatr",
             "repo": "hemvip",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1485,7 +1565,8 @@
             "owner": "youngwoo-yoon",
             "repo": "PyMO",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1500,7 +1581,8 @@
             "owner": "ghenter",
             "repo": "trim_bvh",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         },
         {
           "node_type": "item",
@@ -1515,7 +1597,8 @@
             "owner": "youngwoo-yoon",
             "repo": "create_attention_check",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-29T02:21:37.604Z"
         }
       ],
       "title": "10. Code"
@@ -1543,7 +1626,8 @@
                     "owner": "ai4r",
                     "repo": "Gesture-Generation-from-Trimodal-Context",
                     "stars": 277
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 },
                 {
                   "node_type": "item",
@@ -1558,7 +1642,8 @@
                     "owner": "Aubrey-ao",
                     "repo": "HumanBehaviorAnimation",
                     "stars": 223
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 },
                 {
                   "node_type": "item",
@@ -1573,7 +1658,8 @@
                     "owner": "alvinliu0",
                     "repo": "HA2G",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 },
                 {
                   "node_type": "item",
@@ -1588,7 +1674,8 @@
                     "owner": "UttaranB127",
                     "repo": "speech2affective_gestures",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 },
                 {
                   "node_type": "item",
@@ -1603,7 +1690,8 @@
                     "owner": "hvoss-tech",
                     "repo": "AQGT",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 }
               ]
             },
@@ -1625,7 +1713,8 @@
                     "owner": "amirbar",
                     "repo": "speech2gesture",
                     "stars": 394
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 },
                 {
                   "node_type": "item",
@@ -1640,7 +1729,8 @@
                     "owner": "ai4r",
                     "repo": "Gesture-Generation-from-Trimodal-Context",
                     "stars": 277
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 },
                 {
                   "node_type": "item",
@@ -1655,7 +1745,8 @@
                     "owner": "PantoMatrix",
                     "repo": "BEAT",
                     "stars": 55
-                  }
+                  },
+                  "first_seen": "2026-08-29T02:21:37.604Z"
                 }
               ]
             }
@@ -1669,7 +1760,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:38:41.613Z",
+    "last_updated": "2026-08-29T02:21:37.604Z",
     "original_repository_info": {
       "archived": false,
       "id": 617007100,
