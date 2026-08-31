@@ -356,7 +356,7 @@
                 "open_issues": 5,
                 "owner": "LuMen-ze",
                 "repo": "Semantic-Gesticulator-Official",
-                "stars": 137,
+                "stars": 138,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34420,
+                "stars": 34418,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1997,10 +1997,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-04T07:30:50Z",
-                "open_issues": 333,
+                "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7860,
+                "stars": 7865,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T21:57:35.127Z",
+    "last_updated": "2026-08-31T23:16:25.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
