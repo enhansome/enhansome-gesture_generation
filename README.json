@@ -503,7 +503,7 @@
                 "open_issues": 6,
                 "owner": "YoungSeng",
                 "repo": "DiffuseStyleGesture",
-                "stars": 214,
+                "stars": 215,
                 "topics": [
                   "diffusion-models",
                   "gesture-generation",
@@ -1587,7 +1587,7 @@
                         "open_issues": 6,
                         "owner": "YoungSeng",
                         "repo": "DiffuseStyleGesture",
-                        "stars": 214,
+                        "stars": 215,
                         "topics": [
                           "diffusion-models",
                           "gesture-generation",
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34418,
+                "stars": 34419,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2000,7 +2000,7 @@
                 "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7865,
+                "stars": 7867,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T23:16:25.045Z",
+    "last_updated": "2026-09-01T21:54:11.412Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",

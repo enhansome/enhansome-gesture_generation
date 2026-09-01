@@ -244,7 +244,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 * 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2303.09119) ; [\[Advocate99/DiffGesture\]](https://github.com/Advocate99/DiffGesture) ⭐ 265 | 🐛 0 | 🌐 Python | 📅 2026-03-18
 
-* 【IJCAI 2023】 DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [\[YoungSeng/DiffuseStyleGesture\]](https://github.com/YoungSeng/DiffuseStyleGesture) ⭐ 214 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+* 【IJCAI 2023】 DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [\[YoungSeng/DiffuseStyleGesture\]](https://github.com/YoungSeng/DiffuseStyleGesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
 
 * 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
@@ -539,7 +539,7 @@ This section is -- **not accurate** --> continue edditing
 * **Diffusion**
 
   * 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2303.09119v2.pdf) ; [\[advocate99/diffgesture\]](https://github.com/advocate99/diffgesture) ⭐ 265 | 🐛 0 | 🌐 Python | 📅 2026-03-18
-  * 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ⭐ 214 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+  * 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
   * 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [\[paper\]](https://arxiv.org/abs/2211.09707.pdf) ; [(Code repository (coming soon))](#) ; [\[youtube\]](https://www.youtube.com/watch?v=Qfd2EpzWgok) ; [\[homepage\]](https://www.speech.kth.se/research/listen-denoise-action/) ; [\[video\]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
 
 * **Periodic autoencoders (DeepPhase)**
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,418 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,419 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,598 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,865 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,867 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
