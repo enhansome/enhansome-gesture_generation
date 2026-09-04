@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1293,
+                "stars": 1294,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -661,7 +661,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "character-animation"
                 ]
@@ -1668,7 +1668,7 @@
                         "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 717,
+                        "stars": 718,
                         "topics": [
                           "motion-generation",
                           "pytorch-implementation"
@@ -1833,7 +1833,7 @@
             "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
-            "stars": 427,
+            "stars": 428,
             "topics": [
               "character-animation"
             ]
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34423,
+                "stars": 34425,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2000,7 +2000,7 @@
                 "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7870,
+                "stars": 7874,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T21:48:12.092Z",
+    "last_updated": "2026-09-04T21:38:20.565Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
@@ -2492,7 +2492,7 @@
       "open_issues": 2,
       "owner": "openhuman-ai",
       "repo": "awesome-gesture_generation",
-      "stars": 250,
+      "stars": 251,
       "topics": [
         "awesome",
         "awesome-list",
