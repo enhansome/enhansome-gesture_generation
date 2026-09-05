@@ -226,7 +226,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2024">2024</a>**
 
-* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,294 | 🐛 64 | 🌐 Python | 📅 2025-01-16
+* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,293 | 🐛 64 | 🌐 Python | 📅 2025-01-16
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 143 | 🐛 3 | 🌐 Python | 📅 2026-07-10
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2025-02-07
 * 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2026-01-09
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,425 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,600 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,874 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,424 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,599 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,876 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
