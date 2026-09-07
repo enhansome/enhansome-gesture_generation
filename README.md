@@ -9,7 +9,7 @@ Input: Audio, Text, Gesture, ..etc. -> Output: Gesture Motion
 
 [ACM CCS](https://dl.acm.org/ccs): • Human-centered computing → Human computer interaction (HCI).
 
-Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/survey) ⭐ 251 | 🐛 2 | 📅 2025-11-08 || [📁/approach](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/approach) ⭐ 251 | 🐛 2 | 📅 2025-11-08 || [📁/papers](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/papers) ⭐ 251 | 🐛 2 | 📅 2025-11-08 || [📁/dataset](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/dataset) ⭐ 251 | 🐛 2 | 📅 2025-11-08 || [📁/books](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/books) ⭐ 251 | 🐛 2 | 📅 2025-11-08
+Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/survey) ⭐ 252 | 🐛 2 | 📅 2025-11-08 || [📁/approach](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/approach) ⭐ 252 | 🐛 2 | 📅 2025-11-08 || [📁/papers](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/papers) ⭐ 252 | 🐛 2 | 📅 2025-11-08 || [📁/dataset](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/dataset) ⭐ 252 | 🐛 2 | 📅 2025-11-08 || [📁/books](https://github.com/OpenHuman-ai/awesome-gesture_generation/tree/main/books) ⭐ 252 | 🐛 2 | 📅 2025-11-08
 
 <p align="center">
 
@@ -227,9 +227,9 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 ### **<a name="2024">2024</a>**
 
 * 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,293 | 🐛 64 | 🌐 Python | 📅 2025-01-16
-* 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 143 | 🐛 3 | 🌐 Python | 📅 2026-07-10
+* 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 138 | 🐛 5 | 🌐 Python | 📅 2025-02-07
-* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 87 | 🐛 0 | 🌐 Python | 📅 2026-01-09
+* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 88 | 🐛 0 | 🌐 Python | 📅 2026-01-09
 * 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [\[paper\]](https://arxiv.org/abs/2410.00464) ; [\[homepage\]](https://robinwitch.github.io/SynTalker-Page/) ; [\[video\]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [\[RobinWitch/SynTalker\]](https://github.com/RobinWitch/SynTalker) ⭐ 80 | 🐛 7 | 🌐 Python | 📅 2026-03-29
 * 【CVPR 2024】 DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf); [\[Ditzley/DiffTED\]](https://github.com/Ditzley/DiffTED) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-09-11
 * 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [\[paper\]](https://openreview.net/pdf?id=Iso5lbByDI) ; [\[AI-Unicamp/gesture-area-coverage\]](https://github.com/AI-Unicamp/gesture-area-coverage) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-22
@@ -549,7 +549,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 718 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 719 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,427 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,600 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,879 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,433 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,599 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,883 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -859,12 +859,12 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 
 ## Contributing ![GitHub](https://img.shields.io/github/contributors/OpenHuman-ai/awesome-gesture_generation)
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/master/CONTRIBUTING.md) ⭐ 251 | 🐛 2 | 📅 2025-11-08 first.
+Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/master/CONTRIBUTING.md) ⭐ 252 | 🐛 2 | 📅 2025-11-08 first.
 
 ## License ![GitHub](https://img.shields.io/github/license/OpenHuman-ai/awesome-gesture_generation)
 
 This project is licensed under the MIT License - see the
-[LICENSE.md](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/main/LICENSE) ⭐ 251 | 🐛 2 | 📅 2025-11-08 file for
+[LICENSE.md](https://github.com/OpenHuman-ai/awesome-gesture_generation/blob/main/LICENSE) ⭐ 252 | 🐛 2 | 📅 2025-11-08 file for
 details.
 
 ## Created by [OpenHuman](https://github.com/Openhuman-ai)
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
