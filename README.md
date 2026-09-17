@@ -209,7 +209,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 | Papers                                                                                                                                                                                                                                                     | Video                                                      |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------- |
-| 【IVA 2020】 The StyleGestures entry to the GENEA Challenge 2020 [\[paper\]](https://zenodo.org/record/4088600) ; [\[\[simonalexanderson/StyleGestures\]\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 487 \| 🐛 15 \| 🌐 Python \| 📅 2023-08-08 | [\[youtube\]](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
+| 【IVA 2020】 The StyleGestures entry to the GENEA Challenge 2020 [\[paper\]](https://zenodo.org/record/4088600) ; [\[\[simonalexanderson/StyleGestures\]\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 488 \| 🐛 15 \| 🌐 Python \| 📅 2023-08-08 | [\[youtube\]](https://www.youtube.com/watch?v=JZgBlJKGFGk) |
 | 【IVA 2020】 The FineMotion entry to the GENEA Challenge 2020 [\[paper\]](https://zenodo.org/record/4088609) ; [\[FineMotion/GENEA\_2020\]](https://github.com/FineMotion/GENEA_2020) ⭐ 5 \| 🐛 1 \| 🌐 Python \| 📅 2024-07-25                              | [\[youtube\]](https://www.youtube.com/watch?v=q29d9Hfbifk) |
 | 【IVA 2020】 Double-DCCCAE: Estimation of Sequential Body Motion Using Wave-Form - AlltheSmooth [\[paper\]](https://zenodo.org/record/4088376)                                                                                                               | [\[youtube\]](https://www.youtube.com/watch?v=ht5Fu47JKkI) |
 | 【IVA 2020】 CGVU: Semantics-guided 3D Body Gesture Synthesis [\[paper\]](https://zenodo.org/record/4090879)                                                                                                                                                 | [\[youtube\]](https://www.youtube.com/watch?v=MBSX0OLHRRU) |
@@ -226,7 +226,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2024">2024</a>**
 
-* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,293 | 🐛 64 | 🌐 Python | 📅 2025-01-16
+* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,294 | 🐛 64 | 🌐 Python | 📅 2025-01-16
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 140 | 🐛 5 | 🌐 Python | 📅 2025-02-07
 * 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2026-01-09
@@ -377,8 +377,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2020">2020</a>**
 
-* 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [\[paper\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [\[simonalexanderson/StyleGestures\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 487 | 🐛 15 | 🌐 Python | 📅 2023-08-08 ; [\[youtube\]](https://www.youtube.com/watch?v=egf3tjbWBQE)
-* 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [\[paper\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [\[simonalexanderson/StyleGestures\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 487 | 🐛 15 | 🌐 Python | 📅 2023-08-08 ; [\[youtube\]](https://www.youtube.com/watch?v=egf3tjbWBQE)
+* 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [\[paper\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [\[simonalexanderson/StyleGestures\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 488 | 🐛 15 | 🌐 Python | 📅 2023-08-08 ; [\[youtube\]](https://www.youtube.com/watch?v=egf3tjbWBQE)
+* 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [\[paper\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [\[simonalexanderson/StyleGestures\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 488 | 🐛 15 | 🌐 Python | 📅 2023-08-08 ; [\[youtube\]](https://www.youtube.com/watch?v=egf3tjbWBQE)
 * 【SIGGRAPH Asia 2020】 **Trimodal** Speech gesture generation from the trimodal context of text, audio, and speaker identity [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3414685.3417838) ; [\[ai4r/Gesture-Generation-from-Trimodal-Context\]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2021-12-14
 * 【ICMI 2020】 **Gesticulator** Gesticulator: A framework for semantically-aware speech-driven gesture generation [\[paper\]](https://arxiv.org/abs/2001.09326) ; [\[Svito-zar/gesticulator\]](https://github.com/Svito-zar/gesticulator) ⚠️ Archived
 * Gesticulator: A framework for semantically-aware speech-driven gesture generation [\[paper\]](https://arxiv.org/abs/2001.09326) ; [\[youtube\]](https://www.youtube.com/watch?v=VQ8he6jjW08) ; [\[Svito-zar/gesticulator\]](https://github.com/Svito-zar/gesticulator) ⚠️ Archived ; [\[homepage\]](https://svito-zar.github.io/gesticulator/) ; [\[dataset\]](https://figshare.com/projects/Gesticulator/87128)
@@ -520,7 +520,7 @@ This section is -- **not accurate** --> continue edditing
 
   * **Normalising Flows**
 
-    * 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [\[paper\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [\[simonalexanderson/StyleGestures\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 487 | 🐛 15 | 🌐 Python | 📅 2023-08-08 ; [\[youtube\]](https://www.youtube.com/watch?v=egf3tjbWBQE)
+    * 【EUROGRAPHICS 2020】 **StyleGestures** Style-Controllable Speech-Driven Gesture Synthesis Using Normalising Flows [\[paper\]](https://onlinelibrary.wiley.com/doi/abs/10.1111/cgf.13946) ; [\[simonalexanderson/StyleGestures\]](https://github.com/simonalexanderson/StyleGestures) ⭐ 488 | 🐛 15 | 🌐 Python | 📅 2023-08-08 ; [\[youtube\]](https://www.youtube.com/watch?v=egf3tjbWBQE)
 
   * **WGAN**
 
@@ -549,7 +549,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 719 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 718 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,451 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,454 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,603 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,900 | 🐛 331 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,903 | 🐛 331 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._

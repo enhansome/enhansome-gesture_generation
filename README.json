@@ -244,7 +244,7 @@
                         "open_issues": 15,
                         "owner": "simonalexanderson",
                         "repo": "StyleGestures",
-                        "stars": 487,
+                        "stars": 488,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1293,
+                "stars": 1294,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -893,7 +893,7 @@
                 "open_issues": 15,
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -914,7 +914,7 @@
                 "open_issues": 15,
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 487,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1444,7 +1444,7 @@
                             "open_issues": 15,
                             "owner": "simonalexanderson",
                             "repo": "StyleGestures",
-                            "stars": 487,
+                            "stars": 488,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1668,7 +1668,7 @@
                         "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 719,
+                        "stars": 718,
                         "topics": [
                           "motion-generation",
                           "pytorch-implementation"
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34451,
+                "stars": 34454,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2000,7 +2000,7 @@
                 "open_issues": 331,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7900,
+                "stars": 7903,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T22:15:16.197Z",
+    "last_updated": "2026-09-17T22:20:07.043Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
