@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8603,
+                "stars": 8602,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -1997,7 +1997,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-04T07:30:50Z",
-                "open_issues": 331,
+                "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
                 "stars": 7902,
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T21:46:25.663Z",
+    "last_updated": "2026-09-19T21:35:40.950Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
