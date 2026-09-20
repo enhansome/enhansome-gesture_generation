@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1294,
+                "stars": 1296,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34455,
+                "stars": 34457,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2000,7 +2000,7 @@
                 "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7902,
+                "stars": 7903,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T21:35:40.950Z",
+    "last_updated": "2026-09-20T21:43:57.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
