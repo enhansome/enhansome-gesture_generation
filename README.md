@@ -226,9 +226,9 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2024">2024</a>**
 
-* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,296 | 🐛 64 | 🌐 Python | 📅 2025-01-16
+* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,297 | 🐛 64 | 🌐 Python | 📅 2025-01-16
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
-* 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 140 | 🐛 5 | 🌐 Python | 📅 2025-02-07
+* 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 141 | 🐛 5 | 🌐 Python | 📅 2025-02-07
 * 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2026-01-09
 * 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [\[paper\]](https://arxiv.org/abs/2410.00464) ; [\[homepage\]](https://robinwitch.github.io/SynTalker-Page/) ; [\[video\]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [\[RobinWitch/SynTalker\]](https://github.com/RobinWitch/SynTalker) ⭐ 81 | 🐛 7 | 🌐 Python | 📅 2026-03-29
 * 【CVPR 2024】 DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf); [\[Ditzley/DiffTED\]](https://github.com/Ditzley/DiffTED) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-09-11
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,457 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,602 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,903 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,461 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,605 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,910 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
