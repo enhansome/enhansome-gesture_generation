@@ -354,7 +354,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 * 【ICCV 2021】 Speech Drives Templates: Co-Speech Gesture Synthesis With Learned Templates [\[paper\]](https://openaccess.thecvf.com/content/ICCV2021/html/Qian_Speech_Drives_Templates_Co-Speech_Gesture_Synthesis_With_Learned_Templates_ICCV_2021_paper.html) ; [shenhanqian/speechdrivestemplates](https://github.com/shenhanqian/speechdrivestemplates) ⭐ 98 | 🐛 6 | 🌐 Python | 📅 2023-06-03 ; [\[youtube\]](https://www.youtube.com/watch?v=yu-5gUHn6h8) ; [poster](https://shenhanqian.com/assets/2021-07-25-sdt/poster.pdf)
 * A Framework for Integrating Gesture Generation Models into Interactive Conversational Agents [\[paper\]](https://arxiv.org/abs/2102.12302) ; [\[youtube\]](https://www.youtube.com/watch?v=jhgUBS0125A) ; [\[homepage\]](https://nagyrajmund.github.io/project/gesturebot/) ; [\[nagyrajmund/gesturebot\]](https://github.com/nagyrajmund/gesturebot) ⭐ 36 | 🐛 0 | 🌐 Python | 📅 2021-05-04
-* 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [\[paper\]](https://arxiv.org/pdf/2101.11101.pdf) ; [\[UttaranB127/Text2Gestures\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2021-11-16 ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
+* 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [\[paper\]](https://arxiv.org/pdf/2101.11101.pdf) ; [\[UttaranB127/Text2Gestures\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2021-11-16 ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 * 【ICMI 2021】 Crossmodal Clustered Contrastive Learning: Grounding of Spoken Language to Gesture [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3461615.3485408) ; [\[dondongwon/CC\_NCE\_GENEA\]](https://github.com/dondongwon/CC_NCE_GENEA) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2021-11-11
 * 【ICCV 2021】 **Audio2Gestures** Audio2Gestures: Generating Diverse Gestures From Speech Audio With Conditional Variational Autoencoders [\[paper\]](https://arxiv.org/abs/2108.06720.pdf)
 * 【ICMI 2021】 Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3461615.3485407)
@@ -502,7 +502,7 @@ This section is -- **not accurate** --> continue edditing
 
   * 【SIGGRAPH Asia 2020】 **Trimodal** Speech gesture generation from the trimodal context of text, audio, and speaker identity [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3414685.3417838) ; [\[ai4r/Gesture-Generation-from-Trimodal-Context\]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2021-12-14
   * 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2203.13161) ; [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16
-  * 【MM 2021】 Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475223) ; [\[UttaranB127/speech2affective\_gestures\]](https://github.com/UttaranB127/speech2affective_gestures) ⭐ 55 | 🐛 11 | 🌐 Python | 📅 2023-02-28 ; [\[homepage\]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag)
+  * 【MM 2021】 Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475223) ; [\[UttaranB127/speech2affective\_gestures\]](https://github.com/UttaranB127/speech2affective_gestures) ⭐ 56 | 🐛 11 | 🌐 Python | 📅 2023-02-28 ; [\[homepage\]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag)
   * 【IVA 2018】Evaluation of Speech-to-Gesture Generation Using Bi-Directional LSTM Network [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3267851.3267878)
   * 【ICMI 2022】TransGesture: Autoregressive Gesture Generation with RNN-Transducer [\[paper\]](https://dl.acm.org/doi/10.1145/3536221.3558061)
 
@@ -512,7 +512,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Transformers**
 
-  * 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [\[paper\]](https://arxiv.org/pdf/2101.11101.pdf) ; [\[UttaranB127/Text2Gestures\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 31 | 🐛 1 | 🌐 Python | 📅 2021-11-16 ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
+  * 【IEEEVR 2021】 Text2gestures: A transformer-based network for generating emotive body gestures for virtual agents [\[paper\]](https://arxiv.org/pdf/2101.11101.pdf) ; [\[UttaranB127/Text2Gestures\]](https://github.com/UttaranB127/Text2Gestures) ⭐ 32 | 🐛 1 | 🌐 Python | 📅 2021-11-16 ; [homepage](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/t2g/)
 
 * **Generative models** -- not accurate -- continue edditing
 
@@ -544,12 +544,12 @@ This section is -- **not accurate** --> continue edditing
 
 * **Periodic autoencoders (DeepPhase)**
 
-  * **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[Aubrey-ao/HumanBehaviorAnimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 224 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [\[youtube\]](https://www.youtube.com/watch?v=DO_W8plFWco)
+  * **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[Aubrey-ao/HumanBehaviorAnimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 225 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [\[youtube\]](https://www.youtube.com/watch?v=DO_W8plFWco)
   * 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 718 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 720 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,461 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,464 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,605 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,910 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,917 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -843,9 +843,9 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 * **TEDTalk** (Extract skeleton from video Dataset)
 
   * Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [\[paper\]](https://arxiv.org/abs/2009.02119v1) ; [\[ai4r/Gesture-Generation-from-Trimodal-Context\]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2021-12-14
-  * Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[aubrey-ao/humanbehavioranimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 224 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
+  * Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[aubrey-ao/humanbehavioranimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 225 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
   * Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2203.13161.pdf) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16 ; [\[youtube\]](https://www.youtube.com/watch?v=CG632W-nIWk) ; [\[homepage\]](https://alvinliu0.github.io/projects/HA2G)
-  * Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [\[paper\]](https://arxiv.org/abs/2108.00262v2) [\[UttaranB127/speech2affective\_gestures\]](https://github.com/UttaranB127/speech2affective_gestures) ⭐ 55 | 🐛 11 | 🌐 Python | 📅 2023-02-28 ; [\[homepage\]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [\[youtube\]](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
+  * Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [\[paper\]](https://arxiv.org/abs/2108.00262v2) [\[UttaranB127/speech2affective\_gestures\]](https://github.com/UttaranB127/speech2affective_gestures) ⭐ 56 | 🐛 11 | 🌐 Python | 📅 2023-02-28 ; [\[homepage\]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [\[youtube\]](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
   * AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 20 | 🐛 1 | 🌐 Python | 📅 2024-04-19
 
 * **BEAT** (Motion Capture Dataset)
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-22._

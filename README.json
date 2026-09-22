@@ -838,7 +838,7 @@
                 "open_issues": 1,
                 "owner": "UttaranB127",
                 "repo": "Text2Gestures",
-                "stars": 31,
+                "stars": 32,
                 "topics": [
                   "affective-computing",
                   "gesture-generation",
@@ -1349,7 +1349,7 @@
                         "open_issues": 11,
                         "owner": "UttaranB127",
                         "repo": "speech2affective_gestures",
-                        "stars": 55,
+                        "stars": 56,
                         "topics": [
                           "affective-computing",
                           "gesture-generation",
@@ -1384,7 +1384,7 @@
                         "open_issues": 1,
                         "owner": "UttaranB127",
                         "repo": "Text2Gestures",
-                        "stars": 31,
+                        "stars": 32,
                         "topics": [
                           "affective-computing",
                           "gesture-generation",
@@ -1619,7 +1619,7 @@
                         "open_issues": 7,
                         "owner": "Aubrey-ao",
                         "repo": "HumanBehaviorAnimation",
-                        "stars": 224,
+                        "stars": 225,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1668,7 +1668,7 @@
                         "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 718,
+                        "stars": 720,
                         "topics": [
                           "motion-generation",
                           "pytorch-implementation"
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34461,
+                "stars": 34464,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2000,7 +2000,7 @@
                 "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7910,
+                "stars": 7917,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2319,7 +2319,7 @@
                     "open_issues": 7,
                     "owner": "Aubrey-ao",
                     "repo": "HumanBehaviorAnimation",
-                    "stars": 224,
+                    "stars": 225,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2365,7 +2365,7 @@
                     "open_issues": 11,
                     "owner": "UttaranB127",
                     "repo": "speech2affective_gestures",
-                    "stars": 55,
+                    "stars": 56,
                     "topics": [
                       "affective-computing",
                       "gesture-generation",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T22:42:25.855Z",
+    "last_updated": "2026-09-22T22:21:40.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
