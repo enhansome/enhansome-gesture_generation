@@ -1619,7 +1619,7 @@
                         "open_issues": 7,
                         "owner": "Aubrey-ao",
                         "repo": "HumanBehaviorAnimation",
-                        "stars": 225,
+                        "stars": 226,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34464,
+                "stars": 34466,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8605,
+                "stars": 8607,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2000,7 +2000,7 @@
                 "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7917,
+                "stars": 7921,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2319,7 +2319,7 @@
                     "open_issues": 7,
                     "owner": "Aubrey-ao",
                     "repo": "HumanBehaviorAnimation",
-                    "stars": 225,
+                    "stars": 226,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T22:21:40.990Z",
+    "last_updated": "2026-09-23T22:24:53.570Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
