@@ -1219,7 +1219,7 @@
                 "open_issues": 10,
                 "owner": "PeizhuoLi",
                 "repo": "ganimator",
-                "stars": 411,
+                "stars": 412,
                 "topics": [
                   "character-animation",
                   "computer-animation",
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34468,
+                "stars": 34467,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8607,
+                "stars": 8606,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T22:37:19.676Z",
+    "last_updated": "2026-09-25T22:38:14.078Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",

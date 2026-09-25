@@ -440,7 +440,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 **<a name="others">Others</a>**
 
-* 【SIGGRAPH 2022】 GANimator for generate data GANimator: Neural Motion Synthesis from a Single Sequence [\[paper\]](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ⭐ 411 | 🐛 10 | 🌐 Python | 📅 2024-06-28 ; [\[youtube\]](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
+* 【SIGGRAPH 2022】 GANimator for generate data GANimator: Neural Motion Synthesis from a Single Sequence [\[paper\]](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ⭐ 412 | 🐛 10 | 🌐 Python | 📅 2024-06-28 ; [\[youtube\]](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
 * 【CVPR 2021】 Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics [\[paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Ng_Body2Hands_Learning_To_Infer_3D_Hands_From_Conversational_Gesture_Body_CVPR_2021_paper.html)
 * Rig Inversion by Training a Differentiable Rig Function [\[paper\]](https://arxiv.org/abs/2301.09567) ; [\[youtube\]](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 
@@ -744,8 +744,8 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,468 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,607 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,467 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,606 | 🐛 304 | 🌐 Python | 📅 2024-05-13
   * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,923 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
