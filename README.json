@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1296,
+                "stars": 1295,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -356,7 +356,7 @@
                 "open_issues": 5,
                 "owner": "LuMen-ze",
                 "repo": "Semantic-Gesticulator-Official",
-                "stars": 141,
+                "stars": 142,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34468,
+                "stars": 34475,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8608,
+                "stars": 8607,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2000,7 +2000,7 @@
                 "open_issues": 332,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7925,
+                "stars": 7930,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T22:26:24.945Z",
+    "last_updated": "2026-09-28T23:52:34.645Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
