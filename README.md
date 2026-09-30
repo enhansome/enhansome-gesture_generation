@@ -195,7 +195,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 | Papers                                                                                                                                                                                                                                                                                                                   | Video                                                      | 🏆 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | -- |
-| 【ICMI 2021】 Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3461615.3485407) [\[wubowen416/gesture-generation-using-WGAN\]](https://github.com/wubowen416/gesture-generation-using-WGAN) ⭐ 14 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2023-07-24 | [\[youtube\]](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆 |
+| 【ICMI 2021】 Probabilistic Human-like Gesture Synthesis from Speech using GRU-based WGAN [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3461615.3485407) [\[wubowen416/gesture-generation-using-WGAN\]](https://github.com/wubowen416/gesture-generation-using-WGAN) ⭐ 15 \| 🐛 0 \| 🌐 Jupyter Notebook \| 📅 2023-07-24 | [\[youtube\]](https://www.youtube.com/watch?v=PMhjX6cdIPE) | 🏆 |
 | 【ICMI 2021】 Influence of Movement Energy and Affect Priming on the Perception of Virtual Characters Extroversion and Mood [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3461615.3485409)                                                                                                                                | ❌                                                          |    |
 | 【ICMI 2021】 Crossmodal clustered contrastive learning: Grounding of spoken language to gesture [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3461615.3485408) [\[dondongwon/CC\_NCE\_GENEA\]](https://github.com/dondongwon/CC_NCE_GENEA) ⭐ 8 \| 🐛 1 \| 🌐 Python \| 📅 2021-11-11                                     | [\[youtube\]](https://www.youtube.com/watch?v=L5dHXTpCkeI) |    |
 
@@ -246,7 +246,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 * 【IJCAI 2023】 DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [\[YoungSeng/DiffuseStyleGesture\]](https://github.com/YoungSeng/DiffuseStyleGesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
 
-* 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
+* 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
 * 【ACM MM 2023】UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [\[paper\]](https://arxiv.org/pdf/2309.07051.pdf) ; [\[YoungSeng/UnifiedGesture\]](https://github.com/YoungSeng/UnifiedGesture) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2024-01-15
 
@@ -545,7 +545,7 @@ This section is -- **not accurate** --> continue edditing
 * **Periodic autoencoders (DeepPhase)**
 
   * **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[Aubrey-ao/HumanBehaviorAnimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 226 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [\[youtube\]](https://www.youtube.com/watch?v=DO_W8plFWco)
-  * 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 106 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
+  * 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
 * **Text to Gesture**
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,476 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,477 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,608 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,934 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,936 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._
