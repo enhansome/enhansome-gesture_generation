@@ -229,8 +229,8 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 * 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,297 | 🐛 64 | 🌐 Python | 📅 2025-01-16
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 142 | 🐛 5 | 🌐 Python | 📅 2025-02-07
-* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 92 | 🐛 0 | 🌐 Python | 📅 2026-01-09
-* 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [\[paper\]](https://arxiv.org/abs/2410.00464) ; [\[homepage\]](https://robinwitch.github.io/SynTalker-Page/) ; [\[video\]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [\[RobinWitch/SynTalker\]](https://github.com/RobinWitch/SynTalker) ⭐ 81 | 🐛 7 | 🌐 Python | 📅 2026-03-29
+* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-01-09
+* 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [\[paper\]](https://arxiv.org/abs/2410.00464) ; [\[homepage\]](https://robinwitch.github.io/SynTalker-Page/) ; [\[video\]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [\[RobinWitch/SynTalker\]](https://github.com/RobinWitch/SynTalker) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2026-03-29
 * 【CVPR 2024】 DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf); [\[Ditzley/DiffTED\]](https://github.com/Ditzley/DiffTED) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-09-11
 * 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [\[paper\]](https://openreview.net/pdf?id=Iso5lbByDI) ; [\[AI-Unicamp/gesture-area-coverage\]](https://github.com/AI-Unicamp/gesture-area-coverage) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-22
 * 【CVPR 2024】 Using Language-Aligned Gesture Embeddings for Understanding Gestures Accompanying Math Terms [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024W/MAR/papers/Maidment_Using_Language-Aligned_Gesture_Embeddings_for_Understanding_Gestures_Accompanying_Math_Terms_CVPRW_2024_paper.pdf)
@@ -242,7 +242,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2023">2023</a>**
 
-* 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2303.09119) ; [\[Advocate99/DiffGesture\]](https://github.com/Advocate99/DiffGesture) ⭐ 265 | 🐛 0 | 🌐 Python | 📅 2026-03-18
+* 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2303.09119) ; [\[Advocate99/DiffGesture\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18
 
 * 【IJCAI 2023】 DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [\[YoungSeng/DiffuseStyleGesture\]](https://github.com/YoungSeng/DiffuseStyleGesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
 
@@ -538,7 +538,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Diffusion**
 
-  * 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2303.09119v2.pdf) ; [\[advocate99/diffgesture\]](https://github.com/advocate99/diffgesture) ⭐ 265 | 🐛 0 | 🌐 Python | 📅 2026-03-18
+  * 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2303.09119v2.pdf) ; [\[advocate99/diffgesture\]](https://github.com/advocate99/diffgesture) ⭐ 264 | 🐛 0 | 🌐 Python | 📅 2026-03-18
   * 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
   * 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [\[paper\]](https://arxiv.org/abs/2211.09707.pdf) ; [(Code repository (coming soon))](#) ; [\[youtube\]](https://www.youtube.com/watch?v=Qfd2EpzWgok) ; [\[homepage\]](https://www.speech.kth.se/research/listen-denoise-action/) ; [\[video\]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,484 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,485 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,611 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,941 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,944 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
