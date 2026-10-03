@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1296,
+                "stars": 1297,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -661,7 +661,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 428,
+                "stars": 429,
                 "topics": [
                   "character-animation"
                 ]
@@ -1833,7 +1833,7 @@
             "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
-            "stars": 428,
+            "stars": 429,
             "topics": [
               "character-animation"
             ]
@@ -1903,7 +1903,7 @@
             {
               "node_type": "item",
               "title": "OpenPose - CMU-Perceptual-Computing-Lab/openpose",
-              "description": null,
+              "description": "CMU-Perceptual-Computing-Lab/openpose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34483,
+                "stars": 34484,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1945,7 +1945,7 @@
             {
               "node_type": "item",
               "title": "AlphaPose - MVIG-SJTU/AlphaPose",
-              "description": null,
+              "description": "MVIG-SJTU/AlphaPose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1987,7 +1987,7 @@
             {
               "node_type": "item",
               "title": "MMPose - open-mmlab/mmpose",
-              "description": null,
+              "description": "open-mmlab/mmpose",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2036,7 +2036,7 @@
             {
               "node_type": "item",
               "title": "Utility to trim BVH files: github.com/ghenter/trim_bvh",
-              "description": null,
+              "description": "ghenter/trim_bvh",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2064,7 +2064,7 @@
             {
               "node_type": "item",
               "title": "TeoNikolov/genea_visualizer",
-              "description": null,
+              "description": "TeoNikolov/genea_visualizer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2120,7 +2120,7 @@
         {
           "node_type": "item",
           "title": "Text-based baseline: github.com/youngwoo-yoon/Co-Speech_Gesture_Generation",
-          "description": null,
+          "description": "youngwoo-yoon/Co-Speech_Gesture_Generation",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2141,7 +2141,7 @@
         {
           "node_type": "item",
           "title": "Objective evaluation code: github.com/genea-workshop/genea_numerical_evaluations",
-          "description": null,
+          "description": "genea-workshop/genea_numerical_evaluations",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2167,7 +2167,7 @@
         {
           "node_type": "item",
           "title": "Audio-based baseline: github.com/genea-workshop/Speech_driven_gesture_generation_with_autoencoder",
-          "description": null,
+          "description": "genea-workshop/Speech_driven_gesture_generation_with_autoencoder",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2188,7 +2188,7 @@
         {
           "node_type": "item",
           "title": "Interface for subjective evaluations: jonepatr/hemvip",
-          "description": null,
+          "description": "jonepatr/hemvip",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2209,7 +2209,7 @@
         {
           "node_type": "item",
           "title": "Modified PyMO for the challenge dataset: youngwoo-yoon/PyMO",
-          "description": null,
+          "description": "youngwoo-yoon/PyMO",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2230,7 +2230,7 @@
         {
           "node_type": "item",
           "title": "Utility to trim BVH files: github.com/ghenter/trim_bvh",
-          "description": null,
+          "description": "ghenter/trim_bvh",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2251,7 +2251,7 @@
         {
           "node_type": "item",
           "title": "Code for creating attention-check videos: youngwoo-yoon/create_attention_check",
-          "description": null,
+          "description": "youngwoo-yoon/create_attention_check",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2408,7 +2408,7 @@
                 {
                   "node_type": "item",
                   "title": "Learning Individual Styles of Conversational Gesture [paper]",
-                  "description": null,
+                  "description": "amirbar/speech2gesture",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T23:08:04.618Z",
+    "last_updated": "2026-10-03T04:46:42.254Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
