@@ -226,7 +226,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2024">2024</a>**
 
-* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,297 | 🐛 64 | 🌐 Python | 📅 2025-01-16
+* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,298 | 🐛 64 | 🌐 Python | 📅 2025-01-16
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 142 | 🐛 5 | 🌐 Python | 📅 2025-02-07
 * 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 94 | 🐛 0 | 🌐 Python | 📅 2026-01-09
@@ -322,7 +322,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2022">2022</a>**
 
-* ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech [\[paper\]](https://arxiv.org/abs/2209.07556) ; [\[ubisoft/ubisoft-laforge-ZeroEGGS\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 429 | 🐛 28 | 🌐 Python | 📅 2023-08-16 ; [\[youtube\]](https://www.youtube.com/watch?v=EJPdTtVrxHo)
+* ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech [\[paper\]](https://arxiv.org/abs/2209.07556) ; [\[ubisoft/ubisoft-laforge-ZeroEGGS\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 430 | 🐛 28 | 🌐 Python | 📅 2023-08-16 ; [\[youtube\]](https://www.youtube.com/watch?v=EJPdTtVrxHo)
 * 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2203.13161) ; [\[alvinliu0/HA2G\]](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16
 * 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) ; [\[akira-l/seeg\]](https://github.com/akira-l/seeg) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2022-12-03
 * 【IROS 2022】Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation [\[paper\]](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [\[pjyazdian/Gesture2Vec\]](https://github.com/pjyazdian/Gesture2Vec) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2024-02-09 ; [\[youtube\]](https://www.youtube.com/watch?v=ac8jWk4fdCU) ; [\[youtube\]](https://www.youtube.com/watch?v=qFObMpOboCg)
@@ -440,7 +440,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 **<a name="others">Others</a>**
 
-* 【SIGGRAPH 2022】 GANimator for generate data GANimator: Neural Motion Synthesis from a Single Sequence [\[paper\]](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ⭐ 412 | 🐛 10 | 🌐 Python | 📅 2024-06-28 ; [\[youtube\]](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
+* 【SIGGRAPH 2022】 GANimator for generate data GANimator: Neural Motion Synthesis from a Single Sequence [\[paper\]](https://peizhuoli.github.io/ganimator/paper/ganimator-camera-ready.pdf) ; [PeizhuoLi/ganimator](https://github.com/PeizhuoLi/ganimator) ⭐ 413 | 🐛 10 | 🌐 Python | 📅 2024-06-28 ; [\[youtube\]](https://www.youtube.com/watch?v=-VOsJ1KyyGA)
 * 【CVPR 2021】 Body2Hands: Learning To Infer 3D Hands From Conversational Gesture Body Dynamics [\[paper\]](https://openaccess.thecvf.com/content/CVPR2021/html/Ng_Body2Hands_Learning_To_Infer_3D_Hands_From_Conversational_Gesture_Body_CVPR_2021_paper.html)
 * Rig Inversion by Training a Differentiable Rig Function [\[paper\]](https://arxiv.org/abs/2301.09567) ; [\[youtube\]](https://www.youtube.com/watch?v=sYCz9LGIkuI)
 
@@ -719,7 +719,7 @@ This section is -- **not accurate** --> continue edditing
 | Talking With Hands GENEA Extension                                                                                                                                                                              | 🚶, 🔊, 📃         | 👥     | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      | [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                   |
 | SaGA                                                                                                                                                                                                            | 🚶, 🔊, ℹ️         | 👥     | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        | [\[paper\]](https://pub.uni-bielefeld.de/record/2001935)                                          |
 | SaGA++                                                                                                                                                                                                          | 🚶, 🔊, ℹ️         | 👥     | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |                                                                                                   |
-| ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 429 \| 🐛 28 \| 🌐 Python \| 📅 2023-08-16             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
+| ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 430 \| 🐛 28 \| 🌐 Python \| 📅 2023-08-16             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
 | BEAT Dataset ([\[homepage\]](https://pantomatrix.github.io/BEAT-Dataset/) [\[homepage\]](https://pantomatrix.github.io/BEAT/), [\[github\]](https://github.com/PantoMatrix/BEAT) ⭐ 54 \| 🐛 4 \| 📅 2025-06-26) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [\[paper\]](https://arxiv.org/pdf/2203.05297.pdf)                                                 |
 | InterAct [homepage](https://hku-cg.github.io/interact/)                                                                                                                                                         | 🚶, 🔊, 📃         | 👥     | [hku-cg.github.io](https://hku-cg.github.io/interact/)                                                                                   | [\[paper\]](https://arxiv.org/abs/2405.11690)                                                     |
 
@@ -746,7 +746,7 @@ This section is -- **not accurate** --> continue edditing
 
   * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,485 | 🐛 359 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,611 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,944 | 🐛 332 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,945 | 🐛 332 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
