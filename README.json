@@ -368,16 +368,16 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "[NeurlPS-2024] The official code of MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models",
+                "description": "[NeurlPS-2024] The code of MambaTalk: Efficient Holistic Gesture Synthesis with Selective State Space Models",
                 "homepage": null,
                 "id": 870756886,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-01-09T16:58:25Z",
+                "last_commit": "2026-10-10T05:49:50Z",
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "MambaTalk",
-                "stars": 95,
+                "stars": 97,
                 "topics": [
                   "deep-learning",
                   "gesture-generation",
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34492,
+                "stars": 34494,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1997,10 +1997,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-04T07:30:50Z",
-                "open_issues": 334,
+                "open_issues": 335,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7949,
+                "stars": 7950,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T23:23:40.906Z",
+    "last_updated": "2026-10-10T22:48:17.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
