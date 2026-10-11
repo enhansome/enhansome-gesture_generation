@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1299,
+                "stars": 1298,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -1668,7 +1668,7 @@
                         "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 720,
+                        "stars": 721,
                         "topics": [
                           "motion-generation",
                           "pytorch-implementation"
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8609,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T22:48:17.111Z",
+    "last_updated": "2026-10-11T23:02:10.100Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
