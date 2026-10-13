@@ -661,7 +661,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 430,
+                "stars": 431,
                 "topics": [
                   "character-animation"
                 ]
@@ -1833,7 +1833,7 @@
             "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "character-animation"
             ]
@@ -1916,7 +1916,7 @@
                 "open_issues": 359,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34493,
+                "stars": 34497,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8611,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T01:32:08.040Z",
+    "last_updated": "2026-10-13T23:22:08.402Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
