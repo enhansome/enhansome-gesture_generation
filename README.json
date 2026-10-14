@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1299,
+                "stars": 1301,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8611,
+                "stars": 8610,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T23:22:08.402Z",
+    "last_updated": "2026-10-14T22:28:33.998Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
