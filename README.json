@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1301,
+                "stars": 1303,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -591,7 +591,7 @@
                 "open_issues": 1,
                 "owner": "hvoss-tech",
                 "repo": "AQGT",
-                "stars": 20,
+                "stars": 21,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -661,7 +661,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 431,
+                "stars": 432,
                 "topics": [
                   "character-animation"
                 ]
@@ -1495,7 +1495,7 @@
                             "language": "Python",
                             "license": null,
                             "last_commit": "2024-01-01T23:52:33Z",
-                            "open_issues": 15,
+                            "open_issues": 16,
                             "owner": "JingLi513",
                             "repo": "Audio2Gestures",
                             "stars": 151,
@@ -1833,7 +1833,7 @@
             "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "character-animation"
             ]
@@ -1913,10 +1913,10 @@
                 "language": "C++",
                 "license": "NOASSERTION",
                 "last_commit": "2024-08-03T01:59:11Z",
-                "open_issues": 359,
+                "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34504,
+                "stars": 34507,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8609,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2000,7 +2000,7 @@
                 "open_issues": 336,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7961,
+                "stars": 7966,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2393,7 +2393,7 @@
                     "open_issues": 1,
                     "owner": "hvoss-tech",
                     "repo": "AQGT",
-                    "stars": 20,
+                    "stars": 21,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T21:38:56.443Z",
+    "last_updated": "2026-10-19T22:59:41.696Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
