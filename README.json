@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1303,
+                "stars": 1304,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -661,7 +661,7 @@
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
-                "stars": 432,
+                "stars": 433,
                 "topics": [
                   "character-animation"
                 ]
@@ -1833,7 +1833,7 @@
             "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "character-animation"
             ]
@@ -1916,7 +1916,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34507,
+                "stars": 34513,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2000,7 +2000,7 @@
                 "open_issues": 336,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7966,
+                "stars": 7967,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T22:59:41.696Z",
+    "last_updated": "2026-10-20T22:29:29.760Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
