@@ -303,7 +303,7 @@
                 "open_issues": 64,
                 "owner": "PantoMatrix",
                 "repo": "PantoMatrix",
-                "stars": 1304,
+                "stars": 1303,
                 "topics": [
                   "co-speech-facial",
                   "co-speech-gesture",
@@ -472,7 +472,7 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-03-18T08:59:16Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "Advocate99",
                 "repo": "DiffGesture",
                 "stars": 264,
@@ -1219,7 +1219,7 @@
                 "open_issues": 10,
                 "owner": "PeizhuoLi",
                 "repo": "ganimator",
-                "stars": 413,
+                "stars": 414,
                 "topics": [
                   "character-animation",
                   "computer-animation",
@@ -1418,7 +1418,7 @@
                         "open_issues": 4,
                         "owner": "PantoMatrix",
                         "repo": "BEAT",
-                        "stars": 54,
+                        "stars": 53,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1556,7 +1556,7 @@
                         "language": "Python",
                         "license": "GPL-3.0",
                         "last_commit": "2026-03-18T08:59:16Z",
-                        "open_issues": 0,
+                        "open_issues": 1,
                         "owner": "Advocate99",
                         "repo": "DiffGesture",
                         "stars": 264,
@@ -1856,7 +1856,7 @@
             "open_issues": 4,
             "owner": "PantoMatrix",
             "repo": "BEAT",
-            "stars": 54,
+            "stars": 53,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1916,7 +1916,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34516,
+                "stars": 34517,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1958,7 +1958,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8610,
+                "stars": 8612,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2000,7 +2000,7 @@
                 "open_issues": 336,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7974,
+                "stars": 7978,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2463,7 +2463,7 @@
                     "open_issues": 4,
                     "owner": "PantoMatrix",
                     "repo": "BEAT",
-                    "stars": 54,
+                    "stars": 53,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2480,7 +2480,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T22:35:04.554Z",
+    "last_updated": "2026-10-22T22:35:41.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
