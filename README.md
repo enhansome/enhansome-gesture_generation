@@ -226,10 +226,10 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2024">2024</a>**
 
-* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,304 | 🐛 62 | 🌐 Python | 📅 2026-10-25
+* 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,306 | 🐛 62 | 🌐 Python | 📅 2026-10-25
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 144 | 🐛 5 | 🌐 Python | 📅 2025-02-07
-* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 97 | 🐛 0 | 🌐 Python | 📅 2026-10-10
+* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 98 | 🐛 0 | 🌐 Python | 📅 2026-10-10
 * 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [\[paper\]](https://arxiv.org/abs/2410.00464) ; [\[homepage\]](https://robinwitch.github.io/SynTalker-Page/) ; [\[video\]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [\[RobinWitch/SynTalker\]](https://github.com/RobinWitch/SynTalker) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2026-03-29
 * 【CVPR 2024】 DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf); [\[Ditzley/DiffTED\]](https://github.com/Ditzley/DiffTED) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-09-11
 * 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [\[paper\]](https://openreview.net/pdf?id=Iso5lbByDI) ; [\[AI-Unicamp/gesture-area-coverage\]](https://github.com/AI-Unicamp/gesture-area-coverage) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-22
@@ -244,15 +244,15 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 * 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2303.09119) ; [\[Advocate99/DiffGesture\]](https://github.com/Advocate99/DiffGesture) ⭐ 264 | 🐛 1 | 🌐 Python | 📅 2026-03-18
 
-* 【IJCAI 2023】 DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [\[YoungSeng/DiffuseStyleGesture\]](https://github.com/YoungSeng/DiffuseStyleGesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+* 【IJCAI 2023】 DiffuseStyleGesture - Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [\[YoungSeng/DiffuseStyleGesture\]](https://github.com/YoungSeng/DiffuseStyleGesture) ⭐ 216 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
 
-* 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
+* 【CVPR 2023】 QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 108 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
-* 【ACM MM 2023】UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [\[paper\]](https://arxiv.org/pdf/2309.07051.pdf) ; [\[YoungSeng/UnifiedGesture\]](https://github.com/YoungSeng/UnifiedGesture) ⭐ 57 | 🐛 4 | 🌐 Python | 📅 2024-01-15
+* 【ACM MM 2023】UnifiedGesture - A Unified Gesture Synthesis Model for Multiple Skeletons [\[paper\]](https://arxiv.org/pdf/2309.07051.pdf) ; [\[YoungSeng/UnifiedGesture\]](https://github.com/YoungSeng/UnifiedGesture) ⭐ 58 | 🐛 4 | 🌐 Python | 📅 2024-01-15
 
 * 【CVPR 2023】 Diverse 3D Hand Gesture Prediction from Body Dynamics by Bilateral Hand Disentanglement [\[paper\]](https://arxiv.org/pdf/2303.01765) ; [\[XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction\]](https://github.com/XingqunQi-lab/Diverse-3D-Hand-Gesture-Prediction) ⭐ 23 | 🐛 1 | 📅 2023-10-03
 
-* 【ICMI 2023】 AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-04-19
+* 【ICMI 2023】 AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-04-19
 
 * 【CVPR 2023】 Co-speech Gesture Synthesis by Reinforcement Learning with Contrastive Pre-trained Rewards [\[paper\]](https://batmanzzmc.github.io/assets/pdf/CVPR23.pdf) ; [\[RLracer/RACER\]](https://github.com/RLracer/RACER) ⭐ 6 | 🐛 2 | 📅 2022-11-18
 
@@ -322,7 +322,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2022">2022</a>**
 
-* ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech [\[paper\]](https://arxiv.org/abs/2209.07556) ; [\[ubisoft/ubisoft-laforge-ZeroEGGS\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 433 | 🐛 28 | 🌐 Python | 📅 2023-08-16 ; [\[youtube\]](https://www.youtube.com/watch?v=EJPdTtVrxHo)
+* ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech [\[paper\]](https://arxiv.org/abs/2209.07556) ; [\[ubisoft/ubisoft-laforge-ZeroEGGS\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 | 🐛 28 | 🌐 Python | 📅 2023-08-16 ; [\[youtube\]](https://www.youtube.com/watch?v=EJPdTtVrxHo)
 * 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2203.13161) ; [\[alvinliu0/HA2G\]](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16
 * 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) ; [\[akira-l/seeg\]](https://github.com/akira-l/seeg) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2022-12-03
 * 【IROS 2022】Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation [\[paper\]](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [\[pjyazdian/Gesture2Vec\]](https://github.com/pjyazdian/Gesture2Vec) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2024-02-09 ; [\[youtube\]](https://www.youtube.com/watch?v=ac8jWk4fdCU) ; [\[youtube\]](https://www.youtube.com/watch?v=qFObMpOboCg)
@@ -539,13 +539,13 @@ This section is -- **not accurate** --> continue edditing
 * **Diffusion**
 
   * 【CVPR 2023】 Taming Diffusion Models for Audio-Driven Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2303.09119v2.pdf) ; [\[advocate99/diffgesture\]](https://github.com/advocate99/diffgesture) ⭐ 264 | 🐛 1 | 🌐 Python | 📅 2026-03-18
-  * 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ⭐ 215 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
+  * 【IJCAI 2023】 DiffuseStyleGesture: Stylized Audio-Driven Co-Speech Gesture Generation with Diffusion Models [\[paper\]](https://arxiv.org/abs/2305.04919) ; [youngseng/diffusestylegesture](https://github.com/youngseng/diffusestylegesture) ⭐ 216 | 🐛 6 | 🌐 Python | 📅 2026-04-09 ; [\[youtube\]](https://www.youtube.com/watch?v=Nzom6gkQ2tM)
   * 【SIGGRAPH 2023】 Listen, denoise, action! Audio-driven motion synthesis with diffusion models [\[paper\]](https://arxiv.org/abs/2211.09707.pdf) ; [(Code repository (coming soon))](#) ; [\[youtube\]](https://www.youtube.com/watch?v=Qfd2EpzWgok) ; [\[homepage\]](https://www.speech.kth.se/research/listen-denoise-action/) ; [\[video\]](https://www.youtube.com/watch?v=Qfd2EpzWgok)
 
 * **Periodic autoencoders (DeepPhase)**
 
   * **Rhythmic Gesticulator** - Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[Aubrey-ao/HumanBehaviorAnimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 226 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs) ; [\[youtube\]](https://www.youtube.com/watch?v=DO_W8plFWco)
-  * 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 107 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
+  * 【CVPR 2023】QPGesture: Quantization-Based and Phase-Guided Motion Matching for Natural Speech-Driven Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yang_QPGesture_Quantization-Based_and_Phase-Guided_Motion_Matching_for_Natural_Speech-Driven_Gesture_CVPR_2023_paper.pdf) ; [\[YoungSeng/QPGesture\]](https://github.com/YoungSeng/QPGesture) ⭐ 108 | 🐛 4 | 🌐 Python | 📅 2023-10-18 ; [\[video\]](https://www.youtube.com/watch?v=5GKjFclT618)
 
 * **Text to Gesture**
 
@@ -719,7 +719,7 @@ This section is -- **not accurate** --> continue edditing
 | Talking With Hands GENEA Extension                                                                                                                                                                              | 🚶, 🔊, 📃         | 👥     | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      | [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                   |
 | SaGA                                                                                                                                                                                                            | 🚶, 🔊, ℹ️         | 👥     | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        | [\[paper\]](https://pub.uni-bielefeld.de/record/2001935)                                          |
 | SaGA++                                                                                                                                                                                                          | 🚶, 🔊, ℹ️         | 👥     | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |                                                                                                   |
-| ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 433 \| 🐛 28 \| 🌐 Python \| 📅 2023-08-16             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
+| ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 \| 🐛 28 \| 🌐 Python \| 📅 2023-08-16             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
 | BEAT Dataset ([\[homepage\]](https://pantomatrix.github.io/BEAT-Dataset/) [\[homepage\]](https://pantomatrix.github.io/BEAT/), [\[github\]](https://github.com/PantoMatrix/BEAT) ⭐ 53 \| 🐛 4 \| 📅 2026-10-25) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [\[paper\]](https://arxiv.org/pdf/2203.05297.pdf)                                                 |
 | InterAct [homepage](https://hku-cg.github.io/interact/)                                                                                                                                                         | 🚶, 🔊, 📃         | 👥     | [hku-cg.github.io](https://hku-cg.github.io/interact/)                                                                                   | [\[paper\]](https://arxiv.org/abs/2405.11690)                                                     |
 
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,521 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,612 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,989 | 🐛 336 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,522 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,610 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 7,993 | 🐛 336 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -846,7 +846,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
   * Rhythmic Gesticulator: Rhythm-Aware Co-Speech Gesture Synthesis with Hierarchical Neural Embeddings [\[paper\]](https://arxiv.org/abs/2210.01448) ; [\[aubrey-ao/humanbehavioranimation\]](https://github.com/aubrey-ao/humanbehavioranimation) ⭐ 226 | 🐛 7 | 🌐 Python | 📅 2025-03-01 ; [\[youtube\]](https://www.youtube.com/watch?v=qy2MrNhsoIs)
   * Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/pdf/2203.13161.pdf) [alvinliu0/HA2G](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16 ; [\[youtube\]](https://www.youtube.com/watch?v=CG632W-nIWk) ; [\[homepage\]](https://alvinliu0.github.io/projects/HA2G)
   * Speech2AffectiveGestures: Synthesizing Co-Speech Gestures with Generative Adversarial Affective Expression Learning [\[paper\]](https://arxiv.org/abs/2108.00262v2) [\[UttaranB127/speech2affective\_gestures\]](https://github.com/UttaranB127/speech2affective_gestures) ⭐ 56 | 🐛 11 | 🌐 Python | 📅 2023-02-28 ; [\[homepage\]](https://gamma.umd.edu/researchdirections/affectivecomputing/affagents/s2ag/) ; [\[youtube\]](https://www.youtube.com/watch?v=D_w1FtIVvQ8)
-  * AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 21 | 🐛 1 | 🌐 Python | 📅 2024-04-19
+  * AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-04-19
 
 * **BEAT** (Motion Capture Dataset)
   * Learning Individual Styles of Conversational Gesture [\[paper\]](https://github.com/amirbar/speech2gesture) ⭐ 394 | 🐛 14 | 🌐 Python | 📅 2024-03-06
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
