@@ -244,7 +244,7 @@
                         "open_issues": 15,
                         "owner": "simonalexanderson",
                         "repo": "StyleGestures",
-                        "stars": 489,
+                        "stars": 488,
                         "topics": []
                       },
                       "first_seen": "2026-08-29T02:21:37.604Z"
@@ -325,6 +325,27 @@
             },
             {
               "node_type": "item",
+              "title": "【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [paper]",
+              "description": "; [video] ; [LuMen-ze/Semantic-Gesticulator-Official]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": null,
+                "homepage": null,
+                "id": 800910635,
+                "language": "Python",
+                "license": null,
+                "last_commit": "2025-02-07T13:29:26Z",
+                "open_issues": 5,
+                "owner": "LuMen-ze",
+                "repo": "Semantic-Gesticulator-Official",
+                "stars": 145,
+                "topics": []
+              },
+              "first_seen": "2026-08-29T02:21:37.604Z"
+            },
+            {
+              "node_type": "item",
               "title": "【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [paper]",
               "description": "; [kiranchhatre/amuse]",
               "children": [],
@@ -348,27 +369,6 @@
                   "latent-diffusion",
                   "smplx"
                 ]
-              },
-              "first_seen": "2026-08-29T02:21:37.604Z"
-            },
-            {
-              "node_type": "item",
-              "title": "【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [paper]",
-              "description": "; [video] ; [LuMen-ze/Semantic-Gesticulator-Official]",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": null,
-                "homepage": null,
-                "id": 800910635,
-                "language": "Python",
-                "license": null,
-                "last_commit": "2025-02-07T13:29:26Z",
-                "open_issues": 5,
-                "owner": "LuMen-ze",
-                "repo": "Semantic-Gesticulator-Official",
-                "stars": 144,
-                "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
             },
@@ -904,7 +904,7 @@
                 "open_issues": 15,
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 489,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -925,7 +925,7 @@
                 "open_issues": 15,
                 "owner": "simonalexanderson",
                 "repo": "StyleGestures",
-                "stars": 489,
+                "stars": 488,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1455,7 +1455,7 @@
                             "open_issues": 15,
                             "owner": "simonalexanderson",
                             "repo": "StyleGestures",
-                            "stars": 489,
+                            "stars": 488,
                             "topics": []
                           },
                           "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34531,
+                "stars": 34534,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8609,
+                "stars": 8610,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2008,10 +2008,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-04T07:30:50Z",
-                "open_issues": 336,
+                "open_issues": 337,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 7995,
+                "stars": 8000,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T23:03:00.418Z",
+    "last_updated": "2026-10-28T23:23:09.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
