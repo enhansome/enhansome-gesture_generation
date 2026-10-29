@@ -303,7 +303,7 @@
                 "open_issues": 63,
                 "owner": "haiyangliu0",
                 "repo": "character-policy",
-                "stars": 1306,
+                "stars": 1308,
                 "topics": [
                   "3d-human-motion",
                   "audio-driven-animation",
@@ -2011,7 +2011,7 @@
                 "open_issues": 337,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8000,
+                "stars": 8007,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T23:23:09.301Z",
+    "last_updated": "2026-10-29T23:29:13.961Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
