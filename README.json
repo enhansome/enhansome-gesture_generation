@@ -299,11 +299,11 @@
                 "id": 512623303,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-10-25T14:26:08Z",
+                "last_commit": "2026-11-01T09:49:16Z",
                 "open_issues": 63,
                 "owner": "haiyangliu0",
                 "repo": "character-policy",
-                "stars": 1309,
+                "stars": 1311,
                 "topics": [
                   "3d-human-motion",
                   "audio-driven-animation",
@@ -388,7 +388,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "MambaTalk",
-                "stars": 98,
+                "stars": 100,
                 "topics": [
                   "deep-learning",
                   "gesture-generation",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8611,
+                "stars": 8613,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2011,7 +2011,7 @@
                 "open_issues": 337,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8014,
+                "stars": 8019,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T22:40:34.420Z",
+    "last_updated": "2026-11-01T22:56:30.811Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
