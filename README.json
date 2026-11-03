@@ -299,11 +299,11 @@
                 "id": 512623303,
                 "language": "Python",
                 "license": null,
-                "last_commit": "2026-11-01T09:49:16Z",
+                "last_commit": "2026-11-02T05:19:17Z",
                 "open_issues": 63,
                 "owner": "haiyangliu0",
                 "repo": "character-policy",
-                "stars": 1311,
+                "stars": 1314,
                 "topics": [
                   "3d-human-motion",
                   "audio-driven-animation",
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34550,
+                "stars": 34552,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8613,
+                "stars": 8614,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2008,10 +2008,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-04T07:30:50Z",
-                "open_issues": 337,
+                "open_issues": 338,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8019,
+                "stars": 8022,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T22:56:30.811Z",
+    "last_updated": "2026-11-03T01:43:03.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
