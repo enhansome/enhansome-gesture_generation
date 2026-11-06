@@ -339,7 +339,7 @@
                 "open_issues": 5,
                 "owner": "LuMen-ze",
                 "repo": "Semantic-Gesticulator-Official",
-                "stars": 145,
+                "stars": 146,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1679,7 +1679,7 @@
                         "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 722,
+                        "stars": 723,
                         "topics": [
                           "motion-generation",
                           "pytorch-implementation"
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34551,
+                "stars": 34560,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8616,
+                "stars": 8617,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2011,7 +2011,7 @@
                 "open_issues": 339,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8025,
+                "stars": 8031,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T00:28:23.638Z",
+    "last_updated": "2026-11-06T00:28:56.046Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
