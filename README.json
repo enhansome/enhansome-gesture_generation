@@ -303,7 +303,7 @@
                 "open_issues": 63,
                 "owner": "haiyangliu0",
                 "repo": "character-policy",
-                "stars": 1316,
+                "stars": 1317,
                 "topics": [
                   "3d-human-motion",
                   "audio-driven-animation",
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34574,
+                "stars": 34575,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8620,
+                "stars": 8621,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2011,7 +2011,7 @@
                 "open_issues": 339,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8044,
+                "stars": 8048,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T02:19:43.173Z",
+    "last_updated": "2026-11-11T00:08:57.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
