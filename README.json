@@ -1679,7 +1679,7 @@
                         "open_issues": 24,
                         "owner": "EricGuo5513",
                         "repo": "text-to-motion",
-                        "stars": 725,
+                        "stars": 726,
                         "topics": [
                           "motion-generation",
                           "pytorch-implementation"
@@ -2011,7 +2011,7 @@
                 "open_issues": 340,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8056,
+                "stars": 8058,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T23:13:39.165Z",
+    "last_updated": "2026-11-15T23:26:54.195Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",

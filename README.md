@@ -549,7 +549,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 725 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 726 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
@@ -746,7 +746,7 @@ This section is -- **not accurate** --> continue edditing
 
   * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,579 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,626 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,056 | 🐛 340 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,058 | 🐛 340 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
