@@ -229,7 +229,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 * 【CVPR 2024】 EMAGE: Towards Unified Holistic Co-Speech Gesture Generation via Expressive Masked Audio Gesture Modeling [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Liu_EMAGE_Towards_Unified_Holistic_Co-Speech_Gesture_Generation_via_Expressive_Masked_CVPR_2024_paper.pdf); [\[PantoMatrix/PantoMatrix\]](https://github.com/PantoMatrix/PantoMatrix) ⭐ 1,319 | 🐛 63 | 🌐 Python | 📅 2026-11-02
 * 【SIGGRAPH 2024】Semantic Gesticulator: Semantics-Aware Co-Speech Gesture Synthesis [\[paper\]](https://pku-mocca.github.io/Semantic-Gesticulator-Page/) ; [\[video\]](https://www.youtube.com/watch?v=gKGqCE7id4U) ; [\[LuMen-ze/Semantic-Gesticulator-Official\]](https://github.com/LuMen-ze/Semantic-Gesticulator-Official) ⭐ 146 | 🐛 5 | 🌐 Python | 📅 2025-02-07
 * 【CVPR 2024】 Emotional Speech-driven 3D Body Animation via Disentangled Latent Diffusion [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024/papers/Chhatre_Emotional_Speech-driven_3D_Body_Animation_via_Disentangled_Latent_Diffusion_CVPR_2024_paper.pdf); [\[kiranchhatre/amuse\]](https://github.com/kiranchhatre/amuse) ⭐ 144 | 🐛 3 | 🌐 Python | 📅 2026-07-10
-* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 101 | 🐛 0 | 🌐 Python | 📅 2026-11-07
+* 【NeurIPS 2024】MambaTalk - Efficient Holistic Gesture Synthesis with Selective State Space Models [\[paper\]](https://arxiv.org/pdf/2403.09471) ; [\[homepage\]](https://kkakkkka.github.io/MambaTalk/) ; [\[kkakkkka/MambaTalk\]](https://github.com/kkakkkka/MambaTalk) ⭐ 102 | 🐛 0 | 🌐 Python | 📅 2026-11-07
 * 【ACMMM 2024】SynTalker - Enabling Synergistic Full-Body Control in Prompt-Based Co-Speech Motion Generation [\[paper\]](https://arxiv.org/abs/2410.00464) ; [\[homepage\]](https://robinwitch.github.io/SynTalker-Page/) ; [\[video\]](https://www.youtube.com/watch?v=hkCQLrLarxs) ; [\[RobinWitch/SynTalker\]](https://github.com/RobinWitch/SynTalker) ⭐ 82 | 🐛 7 | 🌐 Python | 📅 2026-03-29
 * 【CVPR 2024】 DiffTED: One-shot Audio-driven TED Talk Video Generation with Diffusion-based Co-speech Gestures [\[paper\]](https://openaccess.thecvf.com/content/CVPR2024W/HuMoGen/papers/Hogue_DiffTED_One-shot_Audio-driven_TED_Talk_Video_Generation_with_Diffusion-based_Co-speech_CVPRW_2024_paper.pdf); [\[Ditzley/DiffTED\]](https://github.com/Ditzley/DiffTED) ⭐ 20 | 🐛 5 | 🌐 Python | 📅 2024-09-11
 * 【ICMI 2024】Gesture Area Coverage to Assess Gesture Expressiveness and Human-Likeness [\[paper\]](https://openreview.net/pdf?id=Iso5lbByDI) ; [\[AI-Unicamp/gesture-area-coverage\]](https://github.com/AI-Unicamp/gesture-area-coverage) ⭐ 4 | 🐛 0 | 🌐 Python | 📅 2024-11-22
@@ -549,7 +549,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Text to Gesture**
 
-  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 726 | 🐛 24 | 🌐 Python | 📅 2024-08-18
+  * 【CVPR 2022】 Generating Diverse and Natural 3D Human Motions from Text [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/papers/Guo_Generating_Diverse_and_Natural_3D_Human_Motions_From_Text_CVPR_2022_paper.pdf) [\[homepage\]](https://ericguo5513.github.io/text-to-motion/) ; [\[poster\]](https://ericguo5513.github.io/text-to-motion/Poster_CVPR2022.pdf) ; [\[EricGuo5513/text-to-motion\]](https://github.com/EricGuo5513/text-to-motion) ⭐ 727 | 🐛 24 | 🌐 Python | 📅 2024-08-18
 
 <!-- Uncategory -->
 
@@ -709,7 +709,7 @@ This section is -- **not accurate** --> continue edditing
 | Creative-IT                                                                                                                                                                                                     | 🚶, 🔊, 📃, 🤯     | 👥     | [sail.usc.edu/CreativeIT](https://sail.usc.edu/CreativeIT/ImprovRelease.htm)                                                             |                                                                                                   |
 | Gesture-Speech Dataset                                                                                                                                                                                          | 🚶, 🔊             | 👤     | [dropbox](https://www.dropbox.com/sh/j419kp4m8hkt9nd/AAC_pIcS1b_WFBqUp5ofBG1Ia?dl=0)                                                     |                                                                                                   |
 | CMU Panoptic                                                                                                                                                                                                    | 🚶, 🔊, 📃         | 👥     | [domedb.perception.cmu](http://domedb.perception.cs.cmu.edu)                                                                             | [\[paper\]](https://arxiv.org/abs/1612.03153)                                                     |
-| Speech-Gesture                                                                                                                                                                                                  | 🚶, 🔊             | 👤     | [amirbar/speech2gesture](https://github.com/amirbar/speech2gesture) ⭐ 394 \| 🐛 14 \| 🌐 Python \| 📅 2024-03-06                         | [\[paper\]](https://arxiv.org/abs/1906.04160)                                                     |
+| Speech-Gesture                                                                                                                                                                                                  | 🚶, 🔊             | 👤     | [amirbar/speech2gesture](https://github.com/amirbar/speech2gesture) ⭐ 395 \| 🐛 14 \| 🌐 Python \| 📅 2024-03-06                         | [\[paper\]](https://arxiv.org/abs/1906.04160)                                                     |
 | TED Dataset [\[homepage\]](https://sites.google.com/view/youngwoo-yoon/projects/co-speech-gesture-generation)                                                                                                   | 🚶, 🔊             | 👤     | [youtube-gesture-dataset](https://github.com/youngwoo-yoon/youtube-gesture-dataset) ⭐ 132 \| 🐛 2 \| 🌐 Python \| 📅 2023-11-09          |                                                                                                   |
 | Talking With Hands ([\[github\]](https://github.com/facebookresearch/TalkingWithHands32M) ⚠️ Archived)                                                                                                          | 🚶, 🔊             | 👥     | [facebookresearch/TalkingWithHands32M](https://github.com/facebookresearch/TalkingWithHands32M) ⚠️ Archived                              | [\[paper\]](https://personalrobotics.cs.washington.edu/publications/lee2019handmotiondataset.pdf) |
 | PATS ([\[homepage\]](https://chahuja.com/pats/), [\[github\]](https://github.com/chahuja/pats) ⭐ 67 \| 🐛 9 \| 🌐 Python \| 📅 2023-07-15)                                                                      | 🚶, 🔊, 📃         | 👤     | [chahuja.com/pats](https://chahuja.com/pats)                                                                                             | [\[paper\]](https://arxiv.org/pdf/2007.12553v1.pdf)                                               |
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,579 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,626 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,058 | 🐛 340 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,586 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,629 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,061 | 🐛 339 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -849,7 +849,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
   * AQ-GT: a Temporally Aligned and Quantized GRU-Transformer for Co-Speech Gesture Synthesis [\[paper\]](https://dl.acm.org/doi/pdf/10.1145/3577190.3614135) ; [\[hvoss-techfak/AQGT\]](https://github.com/hvoss-techfak/AQGT) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2024-04-19
 
 * **BEAT** (Motion Capture Dataset)
-  * Learning Individual Styles of Conversational Gesture [\[paper\]](https://github.com/amirbar/speech2gesture) ⭐ 394 | 🐛 14 | 🌐 Python | 📅 2024-03-06
+  * Learning Individual Styles of Conversational Gesture [\[paper\]](https://github.com/amirbar/speech2gesture) ⭐ 395 | 🐛 14 | 🌐 Python | 📅 2024-03-06
   * Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [\[paper\]](https://arxiv.org/abs/2009.02119v1) ; [\[ai4r/Gesture-Generation-from-Trimodal-Context\]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2021-12-14
   * BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [\[paper\]](https://arxiv.org/abs/2203.05297v5) ; [\[PantoMatrix/BEAT\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 | 🐛 4 | 📅 2026-10-25
   * Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [\[paper\]](https://arxiv.org/abs/2108.06720v1)
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
