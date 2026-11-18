@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34586,
+                "stars": 34590,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2011,7 +2011,7 @@
                 "open_issues": 339,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8061,
+                "stars": 8065,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T02:33:26.676Z",
+    "last_updated": "2026-11-18T01:45:58.110Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
