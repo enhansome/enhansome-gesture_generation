@@ -516,7 +516,7 @@ This section is -- **not accurate** --> continue edditing
 
 * **Generative models** -- not accurate -- continue edditing
 
-  * **CaMN** BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [\[paper\]](https://arxiv.org/abs/2203.05297v5) ; [\[PantoMatrix/BEAT\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 | 🐛 4 | 📅 2026-10-25
+  * **CaMN** BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [\[paper\]](https://arxiv.org/abs/2203.05297v5) ; [\[PantoMatrix/BEAT\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 | 🐛 4 | 📅 2026-11-18
 
   * **Normalising Flows**
 
@@ -720,7 +720,7 @@ This section is -- **not accurate** --> continue edditing
 | SaGA                                                                                                                                                                                                            | 🚶, 🔊, ℹ️         | 👥     | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        | [\[paper\]](https://pub.uni-bielefeld.de/record/2001935)                                          |
 | SaGA++                                                                                                                                                                                                          | 🚶, 🔊, ℹ️         | 👥     | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |                                                                                                   |
 | ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 \| 🐛 28 \| 🌐 Python \| 📅 2023-08-16             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
-| BEAT Dataset ([\[homepage\]](https://pantomatrix.github.io/BEAT-Dataset/) [\[homepage\]](https://pantomatrix.github.io/BEAT/), [\[github\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 \| 🐛 4 \| 📅 2026-10-25) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [\[paper\]](https://arxiv.org/pdf/2203.05297.pdf)                                                 |
+| BEAT Dataset ([\[homepage\]](https://pantomatrix.github.io/BEAT-Dataset/) [\[homepage\]](https://pantomatrix.github.io/BEAT/), [\[github\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 \| 🐛 4 \| 📅 2026-11-18) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [\[paper\]](https://arxiv.org/pdf/2203.05297.pdf)                                                 |
 | InterAct [homepage](https://hku-cg.github.io/interact/)                                                                                                                                                         | 🚶, 🔊, 📃         | 👥     | [hku-cg.github.io](https://hku-cg.github.io/interact/)                                                                                   | [\[paper\]](https://arxiv.org/abs/2405.11690)                                                     |
 
 ### 2022 GENEA Challenge
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,590 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,629 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,065 | 🐛 339 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,596 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,631 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,066 | 🐛 339 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -851,7 +851,7 @@ $L_{W G A N-G P}=-\mathbb{E}_{\mathbf{x} \sim p_{\text {data }}}[D(\mathbf{x})]+
 * **BEAT** (Motion Capture Dataset)
   * Learning Individual Styles of Conversational Gesture [\[paper\]](https://github.com/amirbar/speech2gesture) ⭐ 395 | 🐛 14 | 🌐 Python | 📅 2024-03-06
   * Speech Gesture Generation from the Trimodal Context of Text, Audio, and Speaker Identity [\[paper\]](https://arxiv.org/abs/2009.02119v1) ; [\[ai4r/Gesture-Generation-from-Trimodal-Context\]](https://github.com/ai4r/Gesture-Generation-from-Trimodal-Context) ⭐ 277 | 🐛 4 | 🌐 Python | 📅 2021-12-14
-  * BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [\[paper\]](https://arxiv.org/abs/2203.05297v5) ; [\[PantoMatrix/BEAT\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 | 🐛 4 | 📅 2026-10-25
+  * BEAT: A Large-Scale Semantic and Emotional Multi-Modal Dataset for Conversational Gestures Synthesis [\[paper\]](https://arxiv.org/abs/2203.05297v5) ; [\[PantoMatrix/BEAT\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 | 🐛 4 | 📅 2026-11-18
   * Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders [\[paper\]](https://arxiv.org/abs/2108.06720v1)
   * Robots Learning to Say \`No': Prohibition and Rejective Mechanisms in Acquisition of Linguistic Negation [\[paper\]](https://arxiv.org/abs/1810.11804v1)
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

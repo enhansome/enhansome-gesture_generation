@@ -1424,8 +1424,8 @@
                         "homepage": null,
                         "id": 736239610,
                         "language": null,
-                        "license": null,
-                        "last_commit": "2026-10-25T06:29:14Z",
+                        "license": "Apache-2.0",
+                        "last_commit": "2026-11-18T11:56:21Z",
                         "open_issues": 4,
                         "owner": "PantoMatrix",
                         "repo": "BEAT",
@@ -1862,8 +1862,8 @@
             "homepage": null,
             "id": 736239610,
             "language": null,
-            "license": null,
-            "last_commit": "2026-10-25T06:29:14Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-18T11:56:21Z",
             "open_issues": 4,
             "owner": "PantoMatrix",
             "repo": "BEAT",
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34590,
+                "stars": 34596,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8629,
+                "stars": 8631,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2011,7 +2011,7 @@
                 "open_issues": 339,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8065,
+                "stars": 8066,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2469,8 +2469,8 @@
                     "homepage": null,
                     "id": 736239610,
                     "language": null,
-                    "license": null,
-                    "last_commit": "2026-10-25T06:29:14Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-11-18T11:56:21Z",
                     "open_issues": 4,
                     "owner": "PantoMatrix",
                     "repo": "BEAT",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T01:45:58.110Z",
+    "last_updated": "2026-11-19T01:19:55.636Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
