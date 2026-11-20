@@ -303,7 +303,7 @@
                 "open_issues": 63,
                 "owner": "haiyangliu0",
                 "repo": "character-policy",
-                "stars": 1319,
+                "stars": 1320,
                 "topics": [
                   "3d-human-motion",
                   "audio-driven-animation",
@@ -1749,7 +1749,7 @@
             "open_issues": 14,
             "owner": "amirbar",
             "repo": "speech2gesture",
-            "stars": 395,
+            "stars": 394,
             "topics": []
           },
           "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34596,
+                "stars": 34602,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8631,
+                "stars": 8630,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2011,7 +2011,7 @@
                 "open_issues": 339,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8066,
+                "stars": 8069,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2432,7 +2432,7 @@
                     "open_issues": 14,
                     "owner": "amirbar",
                     "repo": "speech2gesture",
-                    "stars": 395,
+                    "stars": 394,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:21:37.604Z"
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T01:19:55.636Z",
+    "last_updated": "2026-11-20T01:22:47.958Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
