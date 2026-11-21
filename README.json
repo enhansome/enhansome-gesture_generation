@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34604,
+                "stars": 34606,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T00:54:34.940Z",
+    "last_updated": "2026-11-21T23:52:02.193Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
