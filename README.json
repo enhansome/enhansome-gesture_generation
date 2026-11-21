@@ -303,7 +303,7 @@
                 "open_issues": 63,
                 "owner": "haiyangliu0",
                 "repo": "character-policy",
-                "stars": 1320,
+                "stars": 1321,
                 "topics": [
                   "3d-human-motion",
                   "audio-driven-animation",
@@ -388,7 +388,7 @@
                 "open_issues": 0,
                 "owner": "kkakkkka",
                 "repo": "MambaTalk",
-                "stars": 102,
+                "stars": 103,
                 "topics": [
                   "deep-learning",
                   "gesture-generation",
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34602,
+                "stars": 34604,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -2011,7 +2011,7 @@
                 "open_issues": 339,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8069,
+                "stars": 8070,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T01:22:47.958Z",
+    "last_updated": "2026-11-21T00:54:34.940Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
