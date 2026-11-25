@@ -322,7 +322,7 @@ Paper by Folder : [📁/survey](https://github.com/OpenHuman-ai/awesome-gesture_
 
 ### **<a name="2022">2022</a>**
 
-* ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech [\[paper\]](https://arxiv.org/abs/2209.07556) ; [\[ubisoft/ubisoft-laforge-ZeroEGGS\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 | 🐛 28 | 🌐 Python | 📅 2023-08-16 ; [\[youtube\]](https://www.youtube.com/watch?v=EJPdTtVrxHo)
+* ZeroEGGS: Zero-shot Example-based Gesture Generation from Speech [\[paper\]](https://arxiv.org/abs/2209.07556) ; [\[ubisoft/ubisoft-laforge-ZeroEGGS\]](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 | 🐛 28 | 🌐 Python | 📅 2026-11-24 ; [\[youtube\]](https://www.youtube.com/watch?v=EJPdTtVrxHo)
 * 【CVPR 2022】 **HA2G** - Learning Hierarchical Cross-Modal Association for Co-Speech Gesture Generation [\[paper\]](https://arxiv.org/abs/2203.13161) ; [\[alvinliu0/HA2G\]](https://github.com/alvinliu0/HA2G) ⭐ 144 | 🐛 14 | 🌐 Python | 📅 2023-03-16
 * 【CVPR 2022】 SEEG - SEEG: Semantic Energized Co-Speech Gesture Generation [\[paper\]](https://openaccess.thecvf.com/content/CVPR2022/html/Liang_SEEG_Semantic_Energized_Co-Speech_Gesture_Generation_CVPR_2022_paper.html) ; [\[akira-l/seeg\]](https://github.com/akira-l/seeg) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2022-12-03
 * 【IROS 2022】Gesture2Vec: Clustering Gestures using Representation Learning Methods for Co-speech Gesture Generation [\[paper\]](https://sfumars.com/wp-content/papers/2022_iros_gesture2vec.pdf) [\[pjyazdian/Gesture2Vec\]](https://github.com/pjyazdian/Gesture2Vec) ⭐ 27 | 🐛 2 | 🌐 Python | 📅 2024-02-09 ; [\[youtube\]](https://www.youtube.com/watch?v=ac8jWk4fdCU) ; [\[youtube\]](https://www.youtube.com/watch?v=qFObMpOboCg)
@@ -719,7 +719,7 @@ This section is -- **not accurate** --> continue edditing
 | Talking With Hands GENEA Extension                                                                                                                                                                              | 🚶, 🔊, 📃         | 👥     | [zenodo/6998231](https://zenodo.org/record/6998231)                                                                                      | [\[paper\]](https://dl.acm.org/doi/abs/10.1145/3536221.3558068)                                   |
 | SaGA                                                                                                                                                                                                            | 🚶, 🔊, ℹ️         | 👥     | [phonetik.uni-muenchen](https://www.phonetik.uni-muenchen.de/Bas/BasSaGAeng.html)                                                        | [\[paper\]](https://pub.uni-bielefeld.de/record/2001935)                                          |
 | SaGA++                                                                                                                                                                                                          | 🚶, 🔊, ℹ️         | 👥     | [zenodo/6546229](https://zenodo.org/record/6546229)                                                                                      |                                                                                                   |
-| ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 \| 🐛 28 \| 🌐 Python \| 📅 2023-08-16             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
+| ZEGGS Dataset [\[youtube\]](https://www.youtube.com/watch?v=YFg7QKWkjwQ)                                                                                                                                        | 🚶, 🔊             | 👤     | [ubisoft-laforge-ZeroEGGS](https://github.com/ubisoft/ubisoft-laforge-ZeroEGGS) ⭐ 434 \| 🐛 28 \| 🌐 Python \| 📅 2026-11-24             | [\[paper\]](https://arxiv.org/abs/2209.07556)                                                     |
 | BEAT Dataset ([\[homepage\]](https://pantomatrix.github.io/BEAT-Dataset/) [\[homepage\]](https://pantomatrix.github.io/BEAT/), [\[github\]](https://github.com/PantoMatrix/BEAT) ⭐ 55 \| 🐛 4 \| 📅 2026-11-18) | 🚶, 🔊, 📃, ℹ️, 🤯 | 👥, 👤 | [github.io/BEAT](https://pantomatrix.github.io/BEAT)                                                                                     | [\[paper\]](https://arxiv.org/pdf/2203.05297.pdf)                                                 |
 | InterAct [homepage](https://hku-cg.github.io/interact/)                                                                                                                                                         | 🚶, 🔊, 📃         | 👥     | [hku-cg.github.io](https://hku-cg.github.io/interact/)                                                                                   | [\[paper\]](https://arxiv.org/abs/2405.11690)                                                     |
 
@@ -740,13 +740,13 @@ This section is -- **not accurate** --> continue edditing
 
 * Algorithms
 
-  * SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents [\[paper\]](https://github.com/ai4r/SGToolkit) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2022-09-14 ; [\[homepage\]](https://uist.acm.org/uist2021/) ; [\[youtube\]](https://www.youtube.com/watch?v=qClSOtLiVlc)
+  * SGToolkit: An Interactive Gesture Authoring Toolkit for Embodied Conversational Agents [\[paper\]](https://github.com/ai4r/SGToolkit) ⭐ 46 | 🐛 1 | 🌐 Python | 📅 2022-09-14 ; [\[homepage\]](https://uist.acm.org/uist2021/) ; [\[youtube\]](https://www.youtube.com/watch?v=qClSOtLiVlc)
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,613 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
-  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,629 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,077 | 🐛 340 | 🌐 Python | 📅 2025-08-04
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,614 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+  * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,630 | 🐛 304 | 🌐 Python | 📅 2024-05-13
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,079 | 🐛 340 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-25._

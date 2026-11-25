@@ -668,7 +668,7 @@
                 "id": 538686235,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2023-08-16T12:50:43Z",
+                "last_commit": "2026-11-24T18:07:26Z",
                 "open_issues": 28,
                 "owner": "ubisoft",
                 "repo": "ubisoft-laforge-ZeroEGGS",
@@ -1840,7 +1840,7 @@
             "id": 538686235,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2023-08-16T12:50:43Z",
+            "last_commit": "2026-11-24T18:07:26Z",
             "open_issues": 28,
             "owner": "ubisoft",
             "repo": "ubisoft-laforge-ZeroEGGS",
@@ -1899,7 +1899,7 @@
                 "open_issues": 1,
                 "owner": "ai4r",
                 "repo": "SGToolkit",
-                "stars": 45,
+                "stars": 46,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:21:37.604Z"
@@ -1927,7 +1927,7 @@
                 "open_issues": 360,
                 "owner": "CMU-Perceptual-Computing-Lab",
                 "repo": "openpose",
-                "stars": 34613,
+                "stars": 34614,
                 "topics": [
                   "caffe",
                   "computer-vision",
@@ -1969,7 +1969,7 @@
                 "open_issues": 304,
                 "owner": "MVIG-SJTU",
                 "repo": "AlphaPose",
-                "stars": 8629,
+                "stars": 8630,
                 "topics": [
                   "accurate",
                   "alpha-pose",
@@ -2011,7 +2011,7 @@
                 "open_issues": 340,
                 "owner": "open-mmlab",
                 "repo": "mmpose",
-                "stars": 8077,
+                "stars": 8079,
                 "topics": [
                   "animal-pose-estimation",
                   "benchmark",
@@ -2491,7 +2491,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T04:21:27.468Z",
+    "last_updated": "2026-11-25T03:06:17.587Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome Gesture Generation",
