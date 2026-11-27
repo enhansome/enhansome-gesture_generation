@@ -529,7 +529,7 @@ This section is -- **not accurate** --> continue edditing
   * **VAEs**
 
     * Freeform Body Motion Generation from Speech [\[paper\]](https://arxiv.org/pdf/2203.02291) ; [\[TheTempAccount/Co-Speech-Motion-Generation\]](https://github.com/TheTempAccount/Co-Speech-Motion-Generation) ⭐ 209 | 🐛 22 | 🌐 Python | 📅 2022-11-12 ; [\[youtube\]](https://www.youtube.com/watch?v=Wb5VYqKX_x0)
-    * 【ICCV 2021】 Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders ; [\[paper\]](https://arxiv.org/pdf/2108.06720.pdf) ; [\[JingLi513/Audio2Gestures\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 151 | 🐛 16 | 🌐 Python | 📅 2024-01-01 ; [\[homepage\]](https://jingli513.github.io/audio2gestures/)
+    * 【ICCV 2021】 Audio2Gestures: Generating Diverse Gestures from Speech Audio with Conditional Variational Autoencoders ; [\[paper\]](https://arxiv.org/pdf/2108.06720.pdf) ; [\[JingLi513/Audio2Gestures\]](https://github.com/JingLi513/Audio2Gestures) ⭐ 152 | 🐛 16 | 🌐 Python | 📅 2024-01-01 ; [\[homepage\]](https://jingli513.github.io/audio2gestures/)
     * 【CVMP 2021】 **Flow-VAE** Speech-Driven Conversational Agents using Conditional Flow-VAEs [\[paper\]](https://dl.acm.org/doi/10.1145/3485441.3485647)
 
   * **Learnable noise codes**
@@ -744,9 +744,9 @@ This section is -- **not accurate** --> continue edditing
 
 * Recognition:
 
-  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,617 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
+  * OpenPose - [CMU-Perceptual-Computing-Lab/openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) ⭐ 34,619 | 🐛 360 | 🌐 C++ | 📅 2024-08-03
   * AlphaPose - [MVIG-SJTU/AlphaPose](https://github.com/MVIG-SJTU/AlphaPose) ⭐ 8,631 | 🐛 304 | 🌐 Python | 📅 2024-05-13
-  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,082 | 🐛 340 | 🌐 Python | 📅 2025-08-04
+  * MMPose - [open-mmlab/mmpose](https://github.com/open-mmlab/mmpose) ⭐ 8,084 | 🐛 340 | 🌐 Python | 📅 2025-08-04
 
 * Audio pre-processing:
 
@@ -873,4 +873,4 @@ details.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
